@@ -42,7 +42,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-07-14T01:57:21Z",
+                "last_commit": "2026-08-13T07:52:26Z",
                 "owner": "OpenRLHF",
                 "repo": "OpenRLHF",
                 "stars": 9907
@@ -126,7 +126,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-07-14T01:57:21Z",
+                "last_commit": "2026-08-13T07:52:26Z",
                 "owner": "OpenRLHF",
                 "repo": "OpenRLHF",
                 "stars": 9907
@@ -321,10 +321,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-13T02:29:40Z",
+                "last_commit": "2026-08-13T09:40:03Z",
                 "owner": "verl-project",
                 "repo": "verl",
-                "stars": 22935
+                "stars": 22945
               }
             }
           ]
@@ -918,7 +918,7 @@
                 "last_commit": "2026-04-14T15:29:57Z",
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19156
+                "stars": 19159
               }
             },
             {
@@ -1058,7 +1058,7 @@
                 "last_commit": "2024-01-06T02:41:20Z",
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 34021
+                "stars": 34020
               }
             }
           ]
@@ -1704,10 +1704,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T02:29:40Z",
+            "last_commit": "2026-08-13T09:40:03Z",
             "owner": "verl-project",
             "repo": "verl",
-            "stars": 22935
+            "stars": 22945
           }
         },
         {
@@ -1718,10 +1718,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T01:32:46Z",
+            "last_commit": "2026-08-13T08:56:52Z",
             "owner": "huggingface",
             "repo": "trl",
-            "stars": 19062
+            "stars": 19066
           }
         },
         {
@@ -1732,7 +1732,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-14T01:57:21Z",
+            "last_commit": "2026-08-13T07:52:26Z",
             "owner": "OpenRLHF",
             "repo": "OpenRLHF",
             "stars": 9907
@@ -2068,7 +2068,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:08:35.909Z",
+    "last_updated": "2026-08-13T09:47:19.300Z",
     "original_repository": "opendilab/awesome-RLHF",
     "original_repository_sha": "96acdd4571e7bf31a61370daf6cebafcabd5580e",
     "enhanced_repository": "enhansome/enhansome-RLHF",
