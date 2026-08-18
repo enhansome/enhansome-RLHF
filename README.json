@@ -45,7 +45,7 @@
                 "last_commit": "2026-08-13T11:26:24Z",
                 "owner": "OpenRLHF",
                 "repo": "OpenRLHF",
-                "stars": 9922
+                "stars": 9929
               }
             }
           ]
@@ -129,7 +129,7 @@
                 "last_commit": "2026-08-13T11:26:24Z",
                 "owner": "OpenRLHF",
                 "repo": "OpenRLHF",
-                "stars": 9922
+                "stars": 9929
               }
             }
           ]
@@ -321,10 +321,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-17T07:28:11Z",
+                "last_commit": "2026-08-18T04:35:34Z",
                 "owner": "verl-project",
                 "repo": "verl",
-                "stars": 22995
+                "stars": 23016
               }
             }
           ]
@@ -897,7 +897,7 @@
                 "last_commit": "2026-06-10T11:18:20Z",
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
-                "stars": 1576
+                "stars": 1577
               }
             }
           ]
@@ -918,7 +918,7 @@
                 "last_commit": "2026-04-14T15:29:57Z",
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19184
+                "stars": 19193
               }
             },
             {
@@ -932,7 +932,7 @@
                 "last_commit": "2025-01-17T18:22:17Z",
                 "owner": "openai",
                 "repo": "human-eval",
-                "stars": 3340
+                "stars": 3344
               }
             }
           ]
@@ -1204,7 +1204,7 @@
                 "last_commit": "2024-07-23T23:39:41Z",
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40050
+                "stars": 40048
               }
             }
           ]
@@ -1246,7 +1246,7 @@
                 "last_commit": "2025-01-17T18:22:17Z",
                 "owner": "openai",
                 "repo": "human-eval",
-                "stars": 3340
+                "stars": 3344
               }
             },
             {
@@ -1316,7 +1316,7 @@
                 "last_commit": "2025-01-16T03:13:08Z",
                 "owner": "sylinrl",
                 "repo": "TruthfulQA",
-                "stars": 937
+                "stars": 938
               }
             }
           ]
@@ -1358,7 +1358,7 @@
                 "last_commit": "2024-07-02T07:36:39Z",
                 "owner": "anthropics",
                 "repo": "evals",
-                "stars": 419
+                "stars": 420
               }
             },
             {
@@ -1441,7 +1441,7 @@
                 "last_commit": "2025-01-16T03:13:08Z",
                 "owner": "sylinrl",
                 "repo": "TruthfulQA",
-                "stars": 937
+                "stars": 938
               }
             }
           ]
@@ -1587,7 +1587,7 @@
                 "last_commit": "2023-07-25T16:48:57Z",
                 "owner": "openai",
                 "repo": "lm-human-preferences",
-                "stars": 1392
+                "stars": 1391
               }
             },
             {
@@ -1704,10 +1704,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T07:28:11Z",
+            "last_commit": "2026-08-18T04:35:34Z",
             "owner": "verl-project",
             "repo": "verl",
-            "stars": 22995
+            "stars": 23016
           }
         },
         {
@@ -1718,10 +1718,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T09:17:36Z",
+            "last_commit": "2026-08-18T05:08:23Z",
             "owner": "huggingface",
             "repo": "trl",
-            "stars": 19087
+            "stars": 19095
           }
         },
         {
@@ -1735,7 +1735,7 @@
             "last_commit": "2026-08-13T11:26:24Z",
             "owner": "OpenRLHF",
             "repo": "OpenRLHF",
-            "stars": 9922
+            "stars": 9929
           }
         },
         {
@@ -1749,7 +1749,7 @@
             "last_commit": "2026-07-27T23:39:41Z",
             "owner": "lucidrains",
             "repo": "PaLM-rlhf-pytorch",
-            "stars": 7866
+            "stars": 7867
           }
         },
         {
@@ -1763,7 +1763,7 @@
             "last_commit": "2026-08-04T00:06:05Z",
             "owner": "deepspeedai",
             "repo": "DeepSpeedExamples",
-            "stars": 6839
+            "stars": 6840
           }
         },
         {
@@ -1835,7 +1835,7 @@
             "last_commit": "2023-07-25T16:48:57Z",
             "owner": "openai",
             "repo": "lm-human-preferences",
-            "stars": 1392
+            "stars": 1391
           }
         },
         {
@@ -1854,7 +1854,7 @@
                 "last_commit": "2025-01-16T03:13:08Z",
                 "owner": "sylinrl",
                 "repo": "TruthfulQA",
-                "stars": 937
+                "stars": 938
               }
             }
           ],
@@ -1917,10 +1917,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T05:20:26Z",
+            "last_commit": "2026-08-18T04:00:17Z",
             "owner": "davidjurgens",
             "repo": "potato",
-            "stars": 408
+            "stars": 409
           }
         },
         {
@@ -2068,7 +2068,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T09:24:22.279Z",
+    "last_updated": "2026-08-18T09:15:34.790Z",
     "original_repository": "opendilab/awesome-RLHF",
     "original_repository_sha": "96acdd4571e7bf31a61370daf6cebafcabd5580e",
     "enhanced_repository": "enhansome/enhansome-RLHF",
