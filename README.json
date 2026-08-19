@@ -334,7 +334,7 @@
                     "archived": false,
                     "id": 881221486,
                     "language": "Python",
-                    "last_commit": "2026-08-19T09:06:56Z",
+                    "last_commit": "2026-08-19T09:26:57Z",
                     "owner": "verl-project",
                     "repo": "verl",
                     "stars": 23034
@@ -960,7 +960,7 @@
                     "last_commit": "2026-04-14T15:29:57Z",
                     "owner": "openai",
                     "repo": "evals",
-                    "stars": 19198
+                    "stars": 19200
                   }
                 },
                 {
@@ -1793,7 +1793,7 @@
             "archived": false,
             "id": 881221486,
             "language": "Python",
-            "last_commit": "2026-08-19T09:06:56Z",
+            "last_commit": "2026-08-19T09:26:57Z",
             "owner": "verl-project",
             "repo": "verl",
             "stars": 23034
@@ -1808,10 +1808,10 @@
             "archived": false,
             "id": 250510075,
             "language": "Python",
-            "last_commit": "2026-08-19T09:10:26Z",
+            "last_commit": "2026-08-19T12:12:07Z",
             "owner": "huggingface",
             "repo": "trl",
-            "stars": 19107
+            "stars": 19108
           }
         },
         {
@@ -2165,8 +2165,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:16:29.794Z",
+    "last_updated": "2026-08-19T12:14:10.338Z",
     "original_repository": "opendilab/awesome-RLHF",
+    "original_repository_id": 601100396,
     "original_repository_sha": "96acdd4571e7bf31a61370daf6cebafcabd5580e",
     "enhanced_repository": "enhansome/enhansome-RLHF",
     "enhanced_repository_description": null,
