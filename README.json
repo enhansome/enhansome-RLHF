@@ -2,1699 +2,1787 @@
   "items": [
     {
       "description": "You can also visit this link to get an AI-enhanced paper reading experience.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "What's In My Human Feedback? Learning Interpretable Descriptions of Preference Data",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: Official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1086269422,
+                    "language": "Python",
+                    "last_commit": "2026-05-09T19:31:40Z",
+                    "owner": "rmovva",
+                    "repo": "wimhf",
+                    "stars": 27
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "OpenRLHF: A Ray-based Easy-to-use, Scalable and High-performance RLHF Framework",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: Official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 672415139,
+                    "language": "Python",
+                    "last_commit": "2026-08-13T11:26:24Z",
+                    "owner": "OpenRLHF",
+                    "repo": "OpenRLHF",
+                    "stars": 9933
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "MM-RLHF: The Next Step Forward in Multimodal LLM Alignment",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: Official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 933563344,
+                    "language": "Python",
+                    "last_commit": "2025-05-01T12:47:09Z",
+                    "owner": "Kwai-YuanQi",
+                    "repo": "MM-RLHF",
+                    "stars": 199
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Test-Time Preference Optimization: On-the-Fly Alignment via Iterative Textual Feedback",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: Official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 916402877,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2025-05-08T05:42:55Z",
+                    "owner": "Simplified-Reasoning",
+                    "repo": "TPO",
+                    "stars": 185
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Segmenting Text and Learning Their Rewards for Improved RLHF in Language Model",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: Official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 913110865,
+                    "language": "Python",
+                    "last_commit": "2025-01-08T08:42:26Z",
+                    "owner": "yinyueqin",
+                    "repo": "DenseRewardRLHF-PPO",
+                    "stars": 19
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "REINFORCE++: A Simple and Efficient Approach for Aligning Large Language Models",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: Official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 672415139,
+                    "language": "Python",
+                    "last_commit": "2026-08-13T11:26:24Z",
+                    "owner": "OpenRLHF",
+                    "repo": "OpenRLHF",
+                    "stars": 9933
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2025"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "DPO Meets PPO: Reinforced Token Optimization for RLHF",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: Official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 928318909,
+                    "language": "Python",
+                    "last_commit": "2025-06-04T16:10:01Z",
+                    "owner": "zkshan2002",
+                    "repo": "RTO",
+                    "stars": 22
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Reward-Augmented Data Enhances Direct Preference Alignment of LLMs",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: Official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 868665534,
+                    "language": "Python",
+                    "last_commit": "2025-05-01T15:59:44Z",
+                    "owner": "shenao-zhang",
+                    "repo": "reward-augmented-preference",
+                    "stars": 18
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "The Accuracy Paradox in RLHF: When Better Reward Models Don't Yield Better Language Models",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: Official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 869635851,
+                    "language": "Python",
+                    "last_commit": "2024-11-11T07:20:38Z",
+                    "owner": "EIT-NLP",
+                    "repo": "AccuracyParadox-RLHF",
+                    "stars": 13
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Align Anything: Training All-Modality Models to Follow Instructions with Language Feedback",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: Official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 828505099,
+                    "language": "Python",
+                    "last_commit": "2025-11-27T06:50:36Z",
+                    "owner": "PKU-Alignment",
+                    "repo": "align-anything",
+                    "stars": 4666
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "REvolve: Reward Evolution with Large Language Models using Human Feedback",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: Official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 874472304,
+                    "language": "Python",
+                    "last_commit": "2025-11-14T12:17:05Z",
+                    "owner": "RishiHazra",
+                    "repo": "Revolve",
+                    "stars": 20
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "MA-RLHF: Reinforcement Learning from Human Feedback with Macro Actions",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: Official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 863860432,
+                    "language": "Python",
+                    "last_commit": "2025-06-06T14:33:44Z",
+                    "owner": "ernie-research",
+                    "repo": "MA-RLHF",
+                    "stars": 12
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Reward Modeling with Ordinal Feedback: Wisdom of the Crowd",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: Official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 891506782,
+                    "language": "Python",
+                    "last_commit": "2025-03-26T07:49:00Z",
+                    "owner": "LoveCatc",
+                    "repo": "OrdinalRewardModeling",
+                    "stars": 2
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Aligning Few-Step Diffusion Models with Dense Reward Difference Learning",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: Official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 890407948,
+                    "language": "Python",
+                    "last_commit": "2026-02-25T14:25:12Z",
+                    "owner": "ZiyiZhang27",
+                    "repo": "sdpo",
+                    "stars": 22
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "HybridFlow: A Flexible and Efficient RLHF Framework",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: Official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 881221486,
+                    "language": "Python",
+                    "last_commit": "2026-08-19T09:06:56Z",
+                    "owner": "verl-project",
+                    "repo": "verl",
+                    "stars": 23034
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "ALaRM: Align Language Models via Hierarchical Rewards Modeling",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: Official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 770802845,
+                    "language": "Python",
+                    "last_commit": "2024-03-28T13:14:15Z",
+                    "owner": "halfrot",
+                    "repo": "ALaRM",
+                    "stars": 25
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Aligning Large Multimodal Models with Factually Augmented RLHF",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: Official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 697086866,
+                    "language": "Python",
+                    "last_commit": "2023-11-01T04:35:34Z",
+                    "owner": "llava-rlhf",
+                    "repo": "LLaVA-RLHF",
+                    "stars": 398
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Direct Large Language Model Alignment Through Self-Rewarding Contrastive Prompt Distillation",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: Official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 788824229,
+                    "language": "Python",
+                    "last_commit": "2024-08-15T17:30:33Z",
+                    "owner": "exlaw",
+                    "repo": "DLMA",
+                    "stars": 8
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Arithmetic Control of LLMs for Diverse User Preferences: Directional Preference Alignment with Multi-Objective Rewards",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: Official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 763848788,
+                    "language": null,
+                    "last_commit": "2024-09-23T02:52:13Z",
+                    "owner": "RLHFlow",
+                    "repo": "Directional-Preference-Alignment",
+                    "stars": 62
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Improving Large Language Models via Fine-grained Reinforcement Learning with Minimum Editing Constraint",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: Official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 742078767,
+                    "language": "Python",
+                    "last_commit": "2024-01-12T17:45:23Z",
+                    "owner": "RUCAIBox",
+                    "repo": "RLMEC",
+                    "stars": 39
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Dense Reward for Free in Reinforcement Learning from Human Feedback",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 751451148,
+                    "language": "Python",
+                    "last_commit": "2024-08-11T10:42:35Z",
+                    "owner": "XanderJC",
+                    "repo": "attention-based-credit",
+                    "stars": 38
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Rlhf-v: Towards trustworthy mllms via behavior alignment from fine-grained correctional human feedback",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 724981770,
+                    "language": "Python",
+                    "last_commit": "2024-09-11T09:21:43Z",
+                    "owner": "RLHF-V",
+                    "repo": "RLHF-V",
+                    "stars": 311
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "RLHF Workflow: From Reward Modeling to Online RLHF",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 798817924,
+                    "language": "Python",
+                    "last_commit": "2024-12-28T03:56:44Z",
+                    "owner": "RLHFlow",
+                    "repo": "Online-RLHF",
+                    "stars": 544
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Dataset Reset Policy Optimization for RLHF",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 785724336,
+                    "language": "Python",
+                    "last_commit": "2024-04-12T13:53:22Z",
+                    "owner": "Cornell-RL",
+                    "repo": "drpo",
+                    "stars": 30
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "A Dense Reward View on Aligning Text-to-Image Diffusion with Preference",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 754382319,
+                    "language": "Python",
+                    "last_commit": "2024-05-09T02:39:49Z",
+                    "owner": "Shentao-YANG",
+                    "repo": "Dense_Reward_T2I",
+                    "stars": 39
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 752815135,
+                    "language": "Python",
+                    "last_commit": "2024-05-08T05:59:37Z",
+                    "owner": "uclaml",
+                    "repo": "SPIN",
+                    "stars": 1254
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Confronting Reward Overoptimization for Diffusion Models: A Perspective of Inductive and Primacy Biases",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 802744094,
+                    "language": "Python",
+                    "last_commit": "2024-07-12T14:44:31Z",
+                    "owner": "ZiyiZhang27",
+                    "repo": "tdpo",
+                    "stars": 38
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "On Diversified Preferences of Large Language Model Alignment",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 759292626,
+                    "language": "Python",
+                    "last_commit": "2024-08-06T15:24:19Z",
+                    "owner": "dunzeng",
+                    "repo": "MORE",
+                    "stars": 16
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Beyond One-Preference-Fits-All Alignment: Multi-Objective Direct Preference Optimization",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 769953394,
+                    "language": "Python",
+                    "last_commit": "2024-08-20T15:28:44Z",
+                    "owner": "ZHZisZZ",
+                    "repo": "modpo",
+                    "stars": 101
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Emulated Disalignment: Safety Alignment for Large Language Models May Backfire!",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 761912584,
+                    "language": "Python",
+                    "last_commit": "2024-08-02T12:15:17Z",
+                    "owner": "ZHZisZZ",
+                    "repo": "emulated-disalignment",
+                    "stars": 39
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Dense Reward for Free in Reinforcement Learning from Human Feedback",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 751451148,
+                    "language": "Python",
+                    "last_commit": "2024-08-11T10:42:35Z",
+                    "owner": "XanderJC",
+                    "repo": "attention-based-credit",
+                    "stars": 38
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "RIME: Robust Preference-based Reinforcement Learning with Noisy Human Preferences",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 782047747,
+                    "language": "Python",
+                    "last_commit": "2024-10-15T15:06:36Z",
+                    "owner": "CJReinforce",
+                    "repo": "RIME_ICML2024",
+                    "stars": 36
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Uni-RLHF: Universal Platform and Benchmark Suite for Reinforcement Learning with Diverse Human Feedback",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 766344157,
+                    "language": "Python",
+                    "last_commit": "2024-11-20T03:13:24Z",
+                    "owner": "pickxiguapi",
+                    "repo": "Uni-RLHF-Platform",
+                    "stars": 42
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2024"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "The Trickle-down Impact of Reward (In-)consistency on RLHF",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 697508483,
+                    "language": "Python",
+                    "last_commit": "2023-10-02T05:02:56Z",
+                    "owner": "shadowkiller33",
+                    "repo": "Contrast-Instruction",
+                    "stars": 19
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Fine-Grained Human Feedback Gives Better Rewards for Language Model Training",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 645650148,
+                    "language": "Python",
+                    "last_commit": "2025-01-06T19:00:52Z",
+                    "owner": "allenai",
+                    "repo": "FineGrainedRLHF",
+                    "stars": 283
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Preference-grounded Token-level Guidance for Language Model Fine-tuning",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 638094149,
+                    "language": "Python",
+                    "last_commit": "2025-01-08T05:10:39Z",
+                    "owner": "Shentao-YANG",
+                    "repo": "Preference_Grounded_Guidance",
+                    "stars": 17
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Fantastic Rewards and How to Tame Them: A Case Study on Reward Learning for Task-oriented Dialogue Systems",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 598734674,
+                    "language": "Python",
+                    "last_commit": "2023-04-06T00:53:24Z",
+                    "owner": "Shentao-YANG",
+                    "repo": "Fantastic_Reward_ICLR2023",
+                    "stars": 6
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Inverse Preference Learning: Preference-based RL without a Reward Function",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 581355795,
+                    "language": "Python",
+                    "last_commit": "2023-05-25T14:26:34Z",
+                    "owner": "jhejna",
+                    "repo": "inverse-preference-learning",
+                    "stars": 43
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 635992742,
+                    "language": "Python",
+                    "last_commit": "2024-07-01T18:53:35Z",
+                    "owner": "tatsu-lab",
+                    "repo": "alpaca_farm",
+                    "stars": 845
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Adversarial Preference Optimization",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 721014966,
+                    "language": "Python",
+                    "last_commit": "2024-06-03T09:36:28Z",
+                    "owner": "Linear95",
+                    "repo": "APO",
+                    "stars": 54
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "The Wisdom of Hindsight Makes Language Models Better Instruction Followers",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 599814648,
+                    "language": "Python",
+                    "last_commit": "2023-03-18T11:02:52Z",
+                    "owner": "tianjunz",
+                    "repo": "HIR",
+                    "stars": 157
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Preference Ranking Optimization for Human Alignment",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 514217147,
+                    "language": "Python",
+                    "last_commit": "2026-06-10T11:18:20Z",
+                    "owner": "AlibabaResearch",
+                    "repo": "DAMO-ConvAI",
+                    "stars": 1577
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "GPT-4 Technical Report",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 592489166,
+                    "language": "Python",
+                    "last_commit": "2026-04-14T15:29:57Z",
+                    "owner": "openai",
+                    "repo": "evals",
+                    "stars": 19198
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Dataset: DROP",
+                  "description": ", WinoGrande, HellaSwag, ARC, HumanEval, GSM8K, MMLU, TruthfulQA",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 383601290,
+                    "language": "Python",
+                    "last_commit": "2025-01-17T18:22:17Z",
+                    "owner": "openai",
+                    "repo": "human-eval",
+                    "stars": 3345
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 619825247,
+                    "language": "Python",
+                    "last_commit": "2026-08-10T06:56:25Z",
+                    "owner": "OptimalScale",
+                    "repo": "LMFlow",
+                    "stars": 8485
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "RRHF: Rank Responses to Align Language Models with Human Feedback without tears",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 625845015,
+                    "language": "Python",
+                    "last_commit": "2023-09-22T03:26:38Z",
+                    "owner": "GanjinZero",
+                    "repo": "RRHF",
+                    "stars": 805
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Few-shot Preference Learning for Human-in-the-Loop RL",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 505638741,
+                    "language": "Python",
+                    "last_commit": "2023-04-27T08:08:52Z",
+                    "owner": "jhejna",
+                    "repo": "few-shot-preference-rl",
+                    "stars": 38
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Better Aligning Text-to-Image Models with Human Preference",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 617981544,
+                    "language": "Python",
+                    "last_commit": "2023-07-14T05:43:58Z",
+                    "owner": "tgxs002",
+                    "repo": "align_sd",
+                    "stars": 292
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 622147274,
+                    "language": "Python",
+                    "last_commit": "2025-10-29T13:40:51Z",
+                    "owner": "zai-org",
+                    "repo": "ImageReward",
+                    "stars": 1703
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 608555244,
+                    "language": "Python",
+                    "last_commit": "2024-01-06T02:41:20Z",
+                    "owner": "chenfei-wu",
+                    "repo": "TaskMatrix",
+                    "stars": 34010
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Pretraining Language Models with Human Preferences",
+              "description": "(PHF)",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 604237657,
+                    "language": "Python",
+                    "last_commit": "2024-02-13T03:28:45Z",
+                    "owner": "tomekkorbak",
+                    "repo": "pretraining-with-human-feedback",
+                    "stars": 183
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "The Capacity for Moral Self-Correction in Large Language Models",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Dataset; BBQ",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 417281011,
+                    "language": "Python",
+                    "last_commit": "2024-01-08T06:54:09Z",
+                    "owner": "nyu-mll",
+                    "repo": "BBQ",
+                    "stars": 149
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2023"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Is Reinforcement Learning (Not) for Natural Language Processing?: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization",
+              "description": "(NLPO)",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 526069335,
+                    "language": "Python",
+                    "last_commit": "2024-03-01T14:03:46Z",
+                    "owner": "allenai",
+                    "repo": "RL4LMs",
+                    "stars": 2394
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Dataset: IMDB",
+                  "description": ", CommonGen, CNN Daily Mail, ToTTo, WMT-16 (en-de),NarrativeQA, DailyDialog",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 89840463,
+                    "language": "Python",
+                    "last_commit": "2022-06-16T22:22:02Z",
+                    "owner": "abisee",
+                    "repo": "cnn-dailymail",
+                    "stars": 662
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Improving alignment of dialogue agents via targeted human judgements",
+              "description": "(Sparrow)",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Dataset: Natural Questions",
+                  "description": ", ELI5, QuALITY, TriviaQA, WinoBias, BBQ",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 437747718,
+                    "language": "Python",
+                    "last_commit": "2025-01-17T05:50:10Z",
+                    "owner": "nyu-mll",
+                    "repo": "quality",
+                    "stars": 152
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 480101360,
+                    "language": null,
+                    "last_commit": "2025-06-17T15:43:37Z",
+                    "owner": "anthropics",
+                    "repo": "hh-rlhf",
+                    "stars": 1856
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Dynamic Planning in Open-Ended Dialogue using Reinforcement Learning",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Keyword: Real-time, Open-ended dialogue system, Pairs the succinct embedding of the conversation state by language models, CAQL, CQL, BERT",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 154747577,
+                    "language": "Python",
+                    "last_commit": "2024-07-23T23:39:41Z",
+                    "owner": "google-research",
+                    "repo": "bert",
+                    "stars": 40047
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Quark: Controllable Text Generation with Reinforced Unlearning",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 550440686,
+                    "language": "Python",
+                    "last_commit": "2023-11-03T22:17:43Z",
+                    "owner": "GXimingLu",
+                    "repo": "Quark",
+                    "stars": 75
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Dataset: TriviaQA",
+                  "description": ", HellaSwag, ARC, OpenBookQA, LAMBADA, HumanEval, MMLU, TruthfulQA",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 383601290,
+                    "language": "Python",
+                    "last_commit": "2025-01-17T18:22:17Z",
+                    "owner": "openai",
+                    "repo": "human-eval",
+                    "stars": 3345
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 480101360,
+                    "language": null,
+                    "last_commit": "2025-06-17T15:43:37Z",
+                    "owner": "anthropics",
+                    "repo": "hh-rlhf",
+                    "stars": 1856
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Teaching language models to support answers with verified quotes",
+              "description": "(GopherCite)",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Dataset: Natural Questions",
+                  "description": ", ELI5, QuALITY, TruthfulQA",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 437747718,
+                    "language": "Python",
+                    "last_commit": "2025-01-17T05:50:10Z",
+                    "owner": "nyu-mll",
+                    "repo": "quality",
+                    "stars": 152
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Training language models to follow instructions with human feedback",
+              "description": "(InstructGPT)",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 451691015,
+                    "language": null,
+                    "last_commit": "2022-12-11T19:58:53Z",
+                    "owner": "openai",
+                    "repo": "following-instructions-human-feedback",
+                    "stars": 1259
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Dataset: TruthfulQA",
+                  "description": ", RealToxicityPrompts",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 399630138,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2025-01-16T03:13:08Z",
+                    "owner": "sylinrl",
+                    "repo": "TruthfulQA",
+                    "stars": 939
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Constitutional AI: Harmlessness from AI Feedback",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 551205916,
+                    "language": null,
+                    "last_commit": "2022-12-21T21:05:34Z",
+                    "owner": "anthropics",
+                    "repo": "ConstitutionalHarmlessnessPaper",
+                    "stars": 267
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Discovering Language Model Behaviors with Model-Written Evaluations",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 577512074,
+                    "language": null,
+                    "last_commit": "2024-07-02T07:36:39Z",
+                    "owner": "anthropics",
+                    "repo": "evals",
+                    "stars": 420
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Dataset: BBQ",
+                  "description": ", Winogender Schemas",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 417281011,
+                    "language": "Python",
+                    "last_commit": "2024-01-08T06:54:09Z",
+                    "owner": "nyu-mll",
+                    "repo": "BBQ",
+                    "stars": 149
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Non-Markovian Reward Modelling from Trajectory Labels via Interpretable Multiple Instance Learning",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 496947616,
+                    "language": "Python",
+                    "last_commit": "2023-12-14T11:32:18Z",
+                    "owner": "JAEarly",
+                    "repo": "MIL-for-Non-Markovian-Reward-Modelling",
+                    "stars": 6
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Reward Uncertainty for Exploration in Preference-based Reinforcement Learning",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 495145540,
+                    "language": "Python",
+                    "last_commit": "2022-05-26T05:52:09Z",
+                    "owner": "rll-research",
+                    "repo": "rune",
+                    "stars": 15
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2022"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "WebGPT: Browser-assisted question-answering with human feedback",
+              "description": "(WebGPT)",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Dataset: ELI5",
+                  "description": ", TriviaQA, TruthfulQA",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 399630138,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2025-01-16T03:13:08Z",
+                    "owner": "sylinrl",
+                    "repo": "TruthfulQA",
+                    "stars": 939
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Recursively Summarizing Books with Human Feedback",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Dataset: Booksum",
+                  "description": ", NarrativeQA",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 366177506,
+                    "language": "Python",
+                    "last_commit": "2026-06-25T16:28:17Z",
+                    "owner": "salesforce",
+                    "repo": "booksum",
+                    "stars": 199
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Revisiting the Weaknesses of Reinforcement Learning for Neural Machine Translation",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 307371997,
+                    "language": "Python",
+                    "last_commit": "2023-02-10T03:18:50Z",
+                    "owner": "samuki",
+                    "repo": "reinforce-joey",
+                    "stars": 27
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "PEBBLE: Feedback-Efficient Interactive Reinforcement Learning via Relabeling Experience and Unsupervised Pre-training",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 420192626,
+                    "language": "Python",
+                    "last_commit": "2021-11-03T21:10:10Z",
+                    "owner": "rll-research",
+                    "repo": "BPref",
+                    "stars": 137
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "B-Pref: Benchmarking Preference-Based Reinforcement Learning",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 420192626,
+                    "language": "Python",
+                    "last_commit": "2021-11-03T21:10:10Z",
+                    "owner": "rll-research",
+                    "repo": "BPref",
+                    "stars": 137
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2021"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Learning to summarize from human feedback",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 292350557,
+                    "language": "Python",
+                    "last_commit": "2023-09-05T17:25:28Z",
+                    "owner": "openai",
+                    "repo": "summarize-from-feedback",
+                    "stars": 1062
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Dataset: TL;DR",
+                  "description": ", CNN/DM",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 89840463,
+                    "language": "Python",
+                    "last_commit": "2022-06-16T22:22:02Z",
+                    "owner": "abisee",
+                    "repo": "cnn-dailymail",
+                    "stars": 662
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Fine-Tuning Language Models from Human Preferences",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 208397992,
+                    "language": "Python",
+                    "last_commit": "2023-07-25T16:48:57Z",
+                    "owner": "openai",
+                    "repo": "lm-human-preferences",
+                    "stars": 1391
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Dataset: TL;DR",
+                  "description": ", CNN/DM",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 89840463,
+                    "language": "Python",
+                    "last_commit": "2022-06-16T22:22:02Z",
+                    "owner": "abisee",
+                    "repo": "cnn-dailymail",
+                    "stars": 662
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Scalable agent alignment via reward modeling: a research direction",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 205872379,
+                    "language": "Python",
+                    "last_commit": "2019-12-13T01:54:44Z",
+                    "owner": "rddy",
+                    "repo": "ReQueST",
+                    "stars": 86
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Reward learning from human preferences and demonstrations in Atari",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 205872379,
+                    "language": "Python",
+                    "last_commit": "2019-12-13T01:54:44Z",
+                    "owner": "rddy",
+                    "repo": "ReQueST",
+                    "stars": 86
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Deep TAMER: Interactive Agent Shaping in High-Dimensional State Spaces",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: third party",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 340732284,
+                    "language": "Python",
+                    "last_commit": "2022-03-16T17:41:07Z",
+                    "owner": "bharadwaj1098",
+                    "repo": "Tamer",
+                    "stars": 15
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Deep reinforcement learning from human preferences",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 116154982,
+                    "language": "Python",
+                    "last_commit": "2021-11-29T18:53:56Z",
+                    "owner": "mrahtz",
+                    "repo": "learning-from-human-preferences",
+                    "stars": 337
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2020 and before"
+        }
+      ],
       "title": "Papers"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "What's In My Human Feedback? Learning Interpretable Descriptions of Preference Data",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: Official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-05-09T19:31:40Z",
-                "owner": "rmovva",
-                "repo": "wimhf",
-                "stars": 27
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "OpenRLHF: A Ray-based Easy-to-use, Scalable and High-performance RLHF Framework",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: Official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-08-13T11:26:24Z",
-                "owner": "OpenRLHF",
-                "repo": "OpenRLHF",
-                "stars": 9929
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "MM-RLHF: The Next Step Forward in Multimodal LLM Alignment",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: Official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2025-05-01T12:47:09Z",
-                "owner": "Kwai-YuanQi",
-                "repo": "MM-RLHF",
-                "stars": 199
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Test-Time Preference Optimization: On-the-Fly Alignment via Iterative Textual Feedback",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: Official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Jupyter Notebook",
-                "last_commit": "2025-05-08T05:42:55Z",
-                "owner": "Simplified-Reasoning",
-                "repo": "TPO",
-                "stars": 185
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Segmenting Text and Learning Their Rewards for Improved RLHF in Language Model",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: Official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2025-01-08T08:42:26Z",
-                "owner": "yinyueqin",
-                "repo": "DenseRewardRLHF-PPO",
-                "stars": 19
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "REINFORCE++: A Simple and Efficient Approach for Aligning Large Language Models",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: Official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-08-13T11:26:24Z",
-                "owner": "OpenRLHF",
-                "repo": "OpenRLHF",
-                "stars": 9929
-              }
-            }
-          ]
-        }
-      ],
-      "title": "2025"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "DPO Meets PPO: Reinforced Token Optimization for RLHF",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: Official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2025-06-04T16:10:01Z",
-                "owner": "zkshan2002",
-                "repo": "RTO",
-                "stars": 22
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Reward-Augmented Data Enhances Direct Preference Alignment of LLMs",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: Official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2025-05-01T15:59:44Z",
-                "owner": "shenao-zhang",
-                "repo": "reward-augmented-preference",
-                "stars": 18
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "The Accuracy Paradox in RLHF: When Better Reward Models Don't Yield Better Language Models",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: Official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-11-11T07:20:38Z",
-                "owner": "EIT-NLP",
-                "repo": "AccuracyParadox-RLHF",
-                "stars": 13
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Align Anything: Training All-Modality Models to Follow Instructions with Language Feedback",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: Official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2025-11-27T06:50:36Z",
-                "owner": "PKU-Alignment",
-                "repo": "align-anything",
-                "stars": 4666
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "REvolve: Reward Evolution with Large Language Models using Human Feedback",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: Official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2025-11-14T12:17:05Z",
-                "owner": "RishiHazra",
-                "repo": "Revolve",
-                "stars": 20
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "MA-RLHF: Reinforcement Learning from Human Feedback with Macro Actions",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: Official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2025-06-06T14:33:44Z",
-                "owner": "ernie-research",
-                "repo": "MA-RLHF",
-                "stars": 12
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Reward Modeling with Ordinal Feedback: Wisdom of the Crowd",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: Official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2025-03-26T07:49:00Z",
-                "owner": "LoveCatc",
-                "repo": "OrdinalRewardModeling",
-                "stars": 2
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Aligning Few-Step Diffusion Models with Dense Reward Difference Learning",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: Official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-02-25T14:25:12Z",
-                "owner": "ZiyiZhang27",
-                "repo": "sdpo",
-                "stars": 22
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "HybridFlow: A Flexible and Efficient RLHF Framework",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: Official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-08-18T04:35:34Z",
-                "owner": "verl-project",
-                "repo": "verl",
-                "stars": 23016
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "ALaRM: Align Language Models via Hierarchical Rewards Modeling",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: Official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-03-28T13:14:15Z",
-                "owner": "halfrot",
-                "repo": "ALaRM",
-                "stars": 25
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Aligning Large Multimodal Models with Factually Augmented RLHF",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: Official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2023-11-01T04:35:34Z",
-                "owner": "llava-rlhf",
-                "repo": "LLaVA-RLHF",
-                "stars": 398
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Direct Large Language Model Alignment Through Self-Rewarding Contrastive Prompt Distillation",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: Official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-08-15T17:30:33Z",
-                "owner": "exlaw",
-                "repo": "DLMA",
-                "stars": 8
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Arithmetic Control of LLMs for Diverse User Preferences: Directional Preference Alignment with Multi-Objective Rewards",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: Official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": null,
-                "last_commit": "2024-09-23T02:52:13Z",
-                "owner": "RLHFlow",
-                "repo": "Directional-Preference-Alignment",
-                "stars": 62
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Improving Large Language Models via Fine-grained Reinforcement Learning with Minimum Editing Constraint",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: Official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-01-12T17:45:23Z",
-                "owner": "RUCAIBox",
-                "repo": "RLMEC",
-                "stars": 39
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Dense Reward for Free in Reinforcement Learning from Human Feedback",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-08-11T10:42:35Z",
-                "owner": "XanderJC",
-                "repo": "attention-based-credit",
-                "stars": 38
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Rlhf-v: Towards trustworthy mllms via behavior alignment from fine-grained correctional human feedback",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-09-11T09:21:43Z",
-                "owner": "RLHF-V",
-                "repo": "RLHF-V",
-                "stars": 311
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "RLHF Workflow: From Reward Modeling to Online RLHF",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-12-28T03:56:44Z",
-                "owner": "RLHFlow",
-                "repo": "Online-RLHF",
-                "stars": 544
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Dataset Reset Policy Optimization for RLHF",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-04-12T13:53:22Z",
-                "owner": "Cornell-RL",
-                "repo": "drpo",
-                "stars": 30
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "A Dense Reward View on Aligning Text-to-Image Diffusion with Preference",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-05-09T02:39:49Z",
-                "owner": "Shentao-YANG",
-                "repo": "Dense_Reward_T2I",
-                "stars": 39
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-05-08T05:59:37Z",
-                "owner": "uclaml",
-                "repo": "SPIN",
-                "stars": 1254
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Confronting Reward Overoptimization for Diffusion Models: A Perspective of Inductive and Primacy Biases",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-07-12T14:44:31Z",
-                "owner": "ZiyiZhang27",
-                "repo": "tdpo",
-                "stars": 38
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "On Diversified Preferences of Large Language Model Alignment",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-08-06T15:24:19Z",
-                "owner": "dunzeng",
-                "repo": "MORE",
-                "stars": 16
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Beyond One-Preference-Fits-All Alignment: Multi-Objective Direct Preference Optimization",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-08-20T15:28:44Z",
-                "owner": "ZHZisZZ",
-                "repo": "modpo",
-                "stars": 101
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Emulated Disalignment: Safety Alignment for Large Language Models May Backfire!",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-08-02T12:15:17Z",
-                "owner": "ZHZisZZ",
-                "repo": "emulated-disalignment",
-                "stars": 39
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Dense Reward for Free in Reinforcement Learning from Human Feedback",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-08-11T10:42:35Z",
-                "owner": "XanderJC",
-                "repo": "attention-based-credit",
-                "stars": 38
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "RIME: Robust Preference-based Reinforcement Learning with Noisy Human Preferences",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-10-15T15:06:36Z",
-                "owner": "CJReinforce",
-                "repo": "RIME_ICML2024",
-                "stars": 36
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Uni-RLHF: Universal Platform and Benchmark Suite for Reinforcement Learning with Diverse Human Feedback",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-11-20T03:13:24Z",
-                "owner": "pickxiguapi",
-                "repo": "Uni-RLHF-Platform",
-                "stars": 42
-              }
-            }
-          ]
-        }
-      ],
-      "title": "2024"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "The Trickle-down Impact of Reward (In-)consistency on RLHF",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2023-10-02T05:02:56Z",
-                "owner": "shadowkiller33",
-                "repo": "Contrast-Instruction",
-                "stars": 19
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Fine-Grained Human Feedback Gives Better Rewards for Language Model Training",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2025-01-06T19:00:52Z",
-                "owner": "allenai",
-                "repo": "FineGrainedRLHF",
-                "stars": 283
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Preference-grounded Token-level Guidance for Language Model Fine-tuning",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2025-01-08T05:10:39Z",
-                "owner": "Shentao-YANG",
-                "repo": "Preference_Grounded_Guidance",
-                "stars": 17
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Fantastic Rewards and How to Tame Them: A Case Study on Reward Learning for Task-oriented Dialogue Systems",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2023-04-06T00:53:24Z",
-                "owner": "Shentao-YANG",
-                "repo": "Fantastic_Reward_ICLR2023",
-                "stars": 6
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Inverse Preference Learning: Preference-based RL without a Reward Function",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2023-05-25T14:26:34Z",
-                "owner": "jhejna",
-                "repo": "inverse-preference-learning",
-                "stars": 43
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-07-01T18:53:35Z",
-                "owner": "tatsu-lab",
-                "repo": "alpaca_farm",
-                "stars": 845
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Adversarial Preference Optimization",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-06-03T09:36:28Z",
-                "owner": "Linear95",
-                "repo": "APO",
-                "stars": 54
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "The Wisdom of Hindsight Makes Language Models Better Instruction Followers",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2023-03-18T11:02:52Z",
-                "owner": "tianjunz",
-                "repo": "HIR",
-                "stars": 157
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Preference Ranking Optimization for Human Alignment",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-06-10T11:18:20Z",
-                "owner": "AlibabaResearch",
-                "repo": "DAMO-ConvAI",
-                "stars": 1577
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "GPT-4 Technical Report",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-04-14T15:29:57Z",
-                "owner": "openai",
-                "repo": "evals",
-                "stars": 19193
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Dataset: DROP",
-              "description": ", WinoGrande, HellaSwag, ARC, HumanEval, GSM8K, MMLU, TruthfulQA",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2025-01-17T18:22:17Z",
-                "owner": "openai",
-                "repo": "human-eval",
-                "stars": 3344
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-08-10T06:56:25Z",
-                "owner": "OptimalScale",
-                "repo": "LMFlow",
-                "stars": 8484
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "RRHF: Rank Responses to Align Language Models with Human Feedback without tears",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2023-09-22T03:26:38Z",
-                "owner": "GanjinZero",
-                "repo": "RRHF",
-                "stars": 805
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Few-shot Preference Learning for Human-in-the-Loop RL",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2023-04-27T08:08:52Z",
-                "owner": "jhejna",
-                "repo": "few-shot-preference-rl",
-                "stars": 38
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Better Aligning Text-to-Image Models with Human Preference",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2023-07-14T05:43:58Z",
-                "owner": "tgxs002",
-                "repo": "align_sd",
-                "stars": 292
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2025-10-29T13:40:51Z",
-                "owner": "zai-org",
-                "repo": "ImageReward",
-                "stars": 1703
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-01-06T02:41:20Z",
-                "owner": "chenfei-wu",
-                "repo": "TaskMatrix",
-                "stars": 34012
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Pretraining Language Models with Human Preferences",
-          "description": "(PHF)",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-02-13T03:28:45Z",
-                "owner": "tomekkorbak",
-                "repo": "pretraining-with-human-feedback",
-                "stars": 183
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "The Capacity for Moral Self-Correction in Large Language Models",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Dataset; BBQ",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-01-08T06:54:09Z",
-                "owner": "nyu-mll",
-                "repo": "BBQ",
-                "stars": 149
-              }
-            }
-          ]
-        }
-      ],
-      "title": "2023"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Is Reinforcement Learning (Not) for Natural Language Processing?: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization",
-          "description": "(NLPO)",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-03-01T14:03:46Z",
-                "owner": "allenai",
-                "repo": "RL4LMs",
-                "stars": 2395
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Dataset: IMDB",
-              "description": ", CommonGen, CNN Daily Mail, ToTTo, WMT-16 (en-de),NarrativeQA, DailyDialog",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2022-06-16T22:22:02Z",
-                "owner": "abisee",
-                "repo": "cnn-dailymail",
-                "stars": 662
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Improving alignment of dialogue agents via targeted human judgements",
-          "description": "(Sparrow)",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Dataset: Natural Questions",
-              "description": ", ELI5, QuALITY, TriviaQA, WinoBias, BBQ",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2025-01-17T05:50:10Z",
-                "owner": "nyu-mll",
-                "repo": "quality",
-                "stars": 152
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": null,
-                "last_commit": "2025-06-17T15:43:37Z",
-                "owner": "anthropics",
-                "repo": "hh-rlhf",
-                "stars": 1857
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Dynamic Planning in Open-Ended Dialogue using Reinforcement Learning",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Keyword: Real-time, Open-ended dialogue system, Pairs the succinct embedding of the conversation state by language models, CAQL, CQL, BERT",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "Python",
-                "last_commit": "2024-07-23T23:39:41Z",
-                "owner": "google-research",
-                "repo": "bert",
-                "stars": 40048
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Quark: Controllable Text Generation with Reinforced Unlearning",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2023-11-03T22:17:43Z",
-                "owner": "GXimingLu",
-                "repo": "Quark",
-                "stars": 75
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Dataset: TriviaQA",
-              "description": ", HellaSwag, ARC, OpenBookQA, LAMBADA, HumanEval, MMLU, TruthfulQA",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2025-01-17T18:22:17Z",
-                "owner": "openai",
-                "repo": "human-eval",
-                "stars": 3344
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": null,
-                "last_commit": "2025-06-17T15:43:37Z",
-                "owner": "anthropics",
-                "repo": "hh-rlhf",
-                "stars": 1857
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Teaching language models to support answers with verified quotes",
-          "description": "(GopherCite)",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Dataset: Natural Questions",
-              "description": ", ELI5, QuALITY, TruthfulQA",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2025-01-17T05:50:10Z",
-                "owner": "nyu-mll",
-                "repo": "quality",
-                "stars": 152
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Training language models to follow instructions with human feedback",
-          "description": "(InstructGPT)",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": null,
-                "last_commit": "2022-12-11T19:58:53Z",
-                "owner": "openai",
-                "repo": "following-instructions-human-feedback",
-                "stars": 1259
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Dataset: TruthfulQA",
-              "description": ", RealToxicityPrompts",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Jupyter Notebook",
-                "last_commit": "2025-01-16T03:13:08Z",
-                "owner": "sylinrl",
-                "repo": "TruthfulQA",
-                "stars": 938
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Constitutional AI: Harmlessness from AI Feedback",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": null,
-                "last_commit": "2022-12-21T21:05:34Z",
-                "owner": "anthropics",
-                "repo": "ConstitutionalHarmlessnessPaper",
-                "stars": 267
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Discovering Language Model Behaviors with Model-Written Evaluations",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": null,
-                "last_commit": "2024-07-02T07:36:39Z",
-                "owner": "anthropics",
-                "repo": "evals",
-                "stars": 420
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Dataset: BBQ",
-              "description": ", Winogender Schemas",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-01-08T06:54:09Z",
-                "owner": "nyu-mll",
-                "repo": "BBQ",
-                "stars": 149
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Non-Markovian Reward Modelling from Trajectory Labels via Interpretable Multiple Instance Learning",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2023-12-14T11:32:18Z",
-                "owner": "JAEarly",
-                "repo": "MIL-for-Non-Markovian-Reward-Modelling",
-                "stars": 6
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Reward Uncertainty for Exploration in Preference-based Reinforcement Learning",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2022-05-26T05:52:09Z",
-                "owner": "rll-research",
-                "repo": "rune",
-                "stars": 15
-              }
-            }
-          ]
-        }
-      ],
-      "title": "2022"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "WebGPT: Browser-assisted question-answering with human feedback",
-          "description": "(WebGPT)",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Dataset: ELI5",
-              "description": ", TriviaQA, TruthfulQA",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Jupyter Notebook",
-                "last_commit": "2025-01-16T03:13:08Z",
-                "owner": "sylinrl",
-                "repo": "TruthfulQA",
-                "stars": 938
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Recursively Summarizing Books with Human Feedback",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Dataset: Booksum",
-              "description": ", NarrativeQA",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "Python",
-                "last_commit": "2026-06-25T16:28:17Z",
-                "owner": "salesforce",
-                "repo": "booksum",
-                "stars": 199
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Revisiting the Weaknesses of Reinforcement Learning for Neural Machine Translation",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2023-02-10T03:18:50Z",
-                "owner": "samuki",
-                "repo": "reinforce-joey",
-                "stars": 27
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "PEBBLE: Feedback-Efficient Interactive Reinforcement Learning via Relabeling Experience and Unsupervised Pre-training",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2021-11-03T21:10:10Z",
-                "owner": "rll-research",
-                "repo": "BPref",
-                "stars": 137
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "B-Pref: Benchmarking Preference-Based Reinforcement Learning",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2021-11-03T21:10:10Z",
-                "owner": "rll-research",
-                "repo": "BPref",
-                "stars": 137
-              }
-            }
-          ]
-        }
-      ],
-      "title": "2021"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Learning to summarize from human feedback",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "Python",
-                "last_commit": "2023-09-05T17:25:28Z",
-                "owner": "openai",
-                "repo": "summarize-from-feedback",
-                "stars": 1062
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Dataset: TL;DR",
-              "description": ", CNN/DM",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2022-06-16T22:22:02Z",
-                "owner": "abisee",
-                "repo": "cnn-dailymail",
-                "stars": 662
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Fine-Tuning Language Models from Human Preferences",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "Python",
-                "last_commit": "2023-07-25T16:48:57Z",
-                "owner": "openai",
-                "repo": "lm-human-preferences",
-                "stars": 1391
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Dataset: TL;DR",
-              "description": ", CNN/DM",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2022-06-16T22:22:02Z",
-                "owner": "abisee",
-                "repo": "cnn-dailymail",
-                "stars": 662
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Scalable agent alignment via reward modeling: a research direction",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2019-12-13T01:54:44Z",
-                "owner": "rddy",
-                "repo": "ReQueST",
-                "stars": 86
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Reward learning from human preferences and demonstrations in Atari",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2019-12-13T01:54:44Z",
-                "owner": "rddy",
-                "repo": "ReQueST",
-                "stars": 86
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Deep TAMER: Interactive Agent Shaping in High-Dimensional State Spaces",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: third party",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2022-03-16T17:41:07Z",
-                "owner": "bharadwaj1098",
-                "repo": "Tamer",
-                "stars": 15
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Deep reinforcement learning from human preferences",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2021-11-29T18:53:56Z",
-                "owner": "mrahtz",
-                "repo": "learning-from-human-preferences",
-                "stars": 337
-              }
-            }
-          ]
-        }
-      ],
-      "title": "2020 and before"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1703,11 +1791,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 881221486,
             "language": "Python",
-            "last_commit": "2026-08-18T04:35:34Z",
+            "last_commit": "2026-08-19T09:06:56Z",
             "owner": "verl-project",
             "repo": "verl",
-            "stars": 23016
+            "stars": 23034
           }
         },
         {
@@ -1717,11 +1806,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 250510075,
             "language": "Python",
-            "last_commit": "2026-08-18T05:08:23Z",
+            "last_commit": "2026-08-19T09:10:26Z",
             "owner": "huggingface",
             "repo": "trl",
-            "stars": 19095
+            "stars": 19107
           }
         },
         {
@@ -1731,11 +1821,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 672415139,
             "language": "Python",
             "last_commit": "2026-08-13T11:26:24Z",
             "owner": "OpenRLHF",
             "repo": "OpenRLHF",
-            "stars": 9929
+            "stars": 9933
           }
         },
         {
@@ -1745,6 +1836,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 576380523,
             "language": "Python",
             "last_commit": "2026-07-27T23:39:41Z",
             "owner": "lucidrains",
@@ -1759,11 +1851,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 237085793,
             "language": "Python",
             "last_commit": "2026-08-04T00:06:05Z",
             "owner": "deepspeedai",
             "repo": "DeepSpeedExamples",
-            "stars": 6840
+            "stars": 6841
           }
         },
         {
@@ -1773,11 +1866,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 545104023,
             "language": "Python",
             "last_commit": "2024-01-08T20:07:19Z",
             "owner": "CarperAI",
             "repo": "trlx",
-            "stars": 4753
+            "stars": 4754
           }
         },
         {
@@ -1792,6 +1886,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 89840463,
                 "language": "Python",
                 "last_commit": "2022-06-16T22:22:02Z",
                 "owner": "abisee",
@@ -1802,11 +1897,12 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 526069335,
             "language": "Python",
             "last_commit": "2024-03-01T14:03:46Z",
             "owner": "allenai",
             "repo": "RL4LMs",
-            "stars": 2395
+            "stars": 2394
           }
         },
         {
@@ -1821,6 +1917,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 89840463,
                 "language": "Python",
                 "last_commit": "2022-06-16T22:22:02Z",
                 "owner": "abisee",
@@ -1831,6 +1928,7 @@
           ],
           "repo_info": {
             "archived": true,
+            "id": 208397992,
             "language": "Python",
             "last_commit": "2023-07-25T16:48:57Z",
             "owner": "openai",
@@ -1850,16 +1948,18 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 399630138,
                 "language": "Jupyter Notebook",
                 "last_commit": "2025-01-16T03:13:08Z",
                 "owner": "sylinrl",
                 "repo": "TruthfulQA",
-                "stars": 938
+                "stars": 939
               }
             }
           ],
           "repo_info": {
             "archived": true,
+            "id": 451691015,
             "language": null,
             "last_commit": "2022-12-11T19:58:53Z",
             "owner": "openai",
@@ -1874,6 +1974,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 635924825,
             "language": "Python",
             "last_commit": "2025-09-18T00:08:16Z",
             "owner": "IBM",
@@ -1888,6 +1989,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 349008051,
             "language": "Python",
             "last_commit": "2026-04-23T09:14:17Z",
             "owner": "voidful",
@@ -1902,6 +2004,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 505870568,
             "language": "Python",
             "last_commit": "2024-02-24T16:22:47Z",
             "owner": "conceptofmind",
@@ -1916,11 +2019,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 258270256,
             "language": "Python",
-            "last_commit": "2026-08-18T04:00:17Z",
+            "last_commit": "2026-08-18T19:09:50Z",
             "owner": "davidjurgens",
             "repo": "potato",
-            "stars": 409
+            "stars": 410
           }
         },
         {
@@ -1930,6 +2034,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1001601076,
             "language": "Jupyter Notebook",
             "last_commit": "2025-06-20T09:00:12Z",
             "owner": "ash80",
@@ -1944,6 +2049,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 866341786,
             "language": "Python",
             "last_commit": "2025-05-25T19:07:03Z",
             "owner": "McGill-NLP",
@@ -1958,6 +2064,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 565992114,
             "language": "Python",
             "last_commit": "2022-11-23T12:30:13Z",
             "owner": "thomfoster",
@@ -1977,11 +2084,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 640914148,
                 "language": "Python",
                 "last_commit": "2025-11-24T04:07:51Z",
                 "owner": "PKU-Alignment",
                 "repo": "safe-rlhf",
-                "stars": 1612
+                "stars": 1610
               }
             }
           ]
@@ -1990,7 +2098,7 @@
       "title": "Codebases"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1999,6 +2107,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 368915773,
             "language": "Python",
             "last_commit": "2023-10-23T17:59:41Z",
             "owner": "bigscience-workshop",
@@ -2013,11 +2122,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 480101360,
             "language": null,
             "last_commit": "2025-06-17T15:43:37Z",
             "owner": "anthropics",
             "repo": "hh-rlhf",
-            "stars": 1857
+            "stars": 1856
           }
         },
         {
@@ -2027,11 +2137,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 398647982,
             "language": "Python",
             "last_commit": "2026-07-02T11:25:30Z",
             "owner": "google-research",
             "repo": "FLAN",
-            "stars": 1567
+            "stars": 1566
           }
         },
         {
@@ -2041,6 +2152,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 628284849,
             "language": "Python",
             "last_commit": "2023-06-18T16:43:12Z",
             "owner": "agi-templar",
@@ -2050,25 +2162,10 @@
         }
       ],
       "title": "Dataset"
-    },
-    {
-      "description": "Turkish",
-      "items": [],
-      "title": "Other Language Support"
-    },
-    {
-      "description": "Our purpose is to make this repo even better. If you are interested in contributing, please refer to HERE for instructions in contribution.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "Awesome RLHF is released under the Apache 2.0 license.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:15:34.790Z",
+    "last_updated": "2026-08-19T09:16:29.794Z",
     "original_repository": "opendilab/awesome-RLHF",
     "original_repository_sha": "96acdd4571e7bf31a61370daf6cebafcabd5580e",
     "enhanced_repository": "enhansome/enhansome-RLHF",
