@@ -44,7 +44,7 @@
                     "last_commit": "2026-08-13T11:26:24Z",
                     "owner": "OpenRLHF",
                     "repo": "OpenRLHF",
-                    "stars": 9942
+                    "stars": 9945
                   }
                 }
               ]
@@ -132,7 +132,7 @@
                     "last_commit": "2026-08-13T11:26:24Z",
                     "owner": "OpenRLHF",
                     "repo": "OpenRLHF",
-                    "stars": 9942
+                    "stars": 9945
                   }
                 }
               ]
@@ -334,10 +334,10 @@
                     "archived": false,
                     "id": 881221486,
                     "language": "Python",
-                    "last_commit": "2026-08-21T13:46:08Z",
+                    "last_commit": "2026-08-22T09:24:25Z",
                     "owner": "verl-project",
                     "repo": "verl",
-                    "stars": 23072
+                    "stars": 23084
                   }
                 }
               ]
@@ -960,7 +960,7 @@
                     "last_commit": "2026-04-14T15:29:57Z",
                     "owner": "openai",
                     "repo": "evals",
-                    "stars": 19220
+                    "stars": 19230
                   }
                 },
                 {
@@ -997,7 +997,7 @@
                     "last_commit": "2026-08-10T06:56:25Z",
                     "owner": "OptimalScale",
                     "repo": "LMFlow",
-                    "stars": 8484
+                    "stars": 8485
                   }
                 }
               ]
@@ -1107,7 +1107,7 @@
                     "last_commit": "2024-01-06T02:41:20Z",
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 34010
+                    "stars": 34008
                   }
                 }
               ]
@@ -1217,7 +1217,7 @@
                     "last_commit": "2025-01-17T05:50:10Z",
                     "owner": "nyu-mll",
                     "repo": "quality",
-                    "stars": 152
+                    "stars": 153
                   }
                 }
               ]
@@ -1342,7 +1342,7 @@
                     "last_commit": "2025-01-17T05:50:10Z",
                     "owner": "nyu-mll",
                     "repo": "quality",
-                    "stars": 152
+                    "stars": 153
                   }
                 }
               ]
@@ -1379,7 +1379,7 @@
                     "last_commit": "2025-01-16T03:13:08Z",
                     "owner": "sylinrl",
                     "repo": "TruthfulQA",
-                    "stars": 939
+                    "stars": 940
                   }
                 }
               ]
@@ -1423,7 +1423,7 @@
                     "last_commit": "2024-07-02T07:36:39Z",
                     "owner": "anthropics",
                     "repo": "evals",
-                    "stars": 420
+                    "stars": 421
                   }
                 },
                 {
@@ -1511,7 +1511,7 @@
                     "last_commit": "2025-01-16T03:13:08Z",
                     "owner": "sylinrl",
                     "repo": "TruthfulQA",
-                    "stars": 939
+                    "stars": 940
                   }
                 }
               ]
@@ -1577,7 +1577,7 @@
                     "last_commit": "2021-11-03T21:10:10Z",
                     "owner": "rll-research",
                     "repo": "BPref",
-                    "stars": 137
+                    "stars": 138
                   }
                 }
               ]
@@ -1599,7 +1599,7 @@
                     "last_commit": "2021-11-03T21:10:10Z",
                     "owner": "rll-research",
                     "repo": "BPref",
-                    "stars": 137
+                    "stars": 138
                   }
                 }
               ]
@@ -1793,10 +1793,10 @@
             "archived": false,
             "id": 881221486,
             "language": "Python",
-            "last_commit": "2026-08-21T13:46:08Z",
+            "last_commit": "2026-08-22T09:24:25Z",
             "owner": "verl-project",
             "repo": "verl",
-            "stars": 23072
+            "stars": 23084
           }
         },
         {
@@ -1808,10 +1808,10 @@
             "archived": false,
             "id": 250510075,
             "language": "Python",
-            "last_commit": "2026-08-22T08:42:31Z",
+            "last_commit": "2026-08-23T01:04:35Z",
             "owner": "huggingface",
             "repo": "trl",
-            "stars": 19121
+            "stars": 19133
           }
         },
         {
@@ -1826,7 +1826,7 @@
             "last_commit": "2026-08-13T11:26:24Z",
             "owner": "OpenRLHF",
             "repo": "OpenRLHF",
-            "stars": 9942
+            "stars": 9945
           }
         },
         {
@@ -1871,7 +1871,7 @@
             "last_commit": "2024-01-08T20:07:19Z",
             "owner": "CarperAI",
             "repo": "trlx",
-            "stars": 4753
+            "stars": 4754
           }
         },
         {
@@ -1953,7 +1953,7 @@
                 "last_commit": "2025-01-16T03:13:08Z",
                 "owner": "sylinrl",
                 "repo": "TruthfulQA",
-                "stars": 939
+                "stars": 940
               }
             }
           ],
@@ -2024,7 +2024,7 @@
             "last_commit": "2026-08-21T03:05:15Z",
             "owner": "davidjurgens",
             "repo": "potato",
-            "stars": 413
+            "stars": 414
           }
         },
         {
@@ -2165,7 +2165,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T09:03:38.440Z",
+    "last_updated": "2026-08-23T09:03:57.586Z",
     "original_repository": "opendilab/awesome-RLHF",
     "original_repository_id": 601100396,
     "original_repository_sha": "96acdd4571e7bf31a61370daf6cebafcabd5580e",
