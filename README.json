@@ -44,7 +44,7 @@
                     "last_commit": "2026-08-13T11:26:24Z",
                     "owner": "OpenRLHF",
                     "repo": "OpenRLHF",
-                    "stars": 9951
+                    "stars": 9952
                   }
                 }
               ]
@@ -132,7 +132,7 @@
                     "last_commit": "2026-08-13T11:26:24Z",
                     "owner": "OpenRLHF",
                     "repo": "OpenRLHF",
-                    "stars": 9951
+                    "stars": 9952
                   }
                 }
               ]
@@ -337,7 +337,7 @@
                     "last_commit": "2026-08-25T05:36:18Z",
                     "owner": "verl-project",
                     "repo": "verl",
-                    "stars": 23116
+                    "stars": 23125
                   }
                 }
               ]
@@ -960,7 +960,7 @@
                     "last_commit": "2026-04-14T15:29:57Z",
                     "owner": "openai",
                     "repo": "evals",
-                    "stars": 19241
+                    "stars": 19243
                   }
                 },
                 {
@@ -1796,7 +1796,7 @@
             "last_commit": "2026-08-25T05:36:18Z",
             "owner": "verl-project",
             "repo": "verl",
-            "stars": 23116
+            "stars": 23125
           }
         },
         {
@@ -1808,10 +1808,10 @@
             "archived": false,
             "id": 250510075,
             "language": "Python",
-            "last_commit": "2026-08-25T05:31:33Z",
+            "last_commit": "2026-08-25T08:59:27Z",
             "owner": "huggingface",
             "repo": "trl",
-            "stars": 19147
+            "stars": 19151
           }
         },
         {
@@ -1826,7 +1826,7 @@
             "last_commit": "2026-08-13T11:26:24Z",
             "owner": "OpenRLHF",
             "repo": "OpenRLHF",
-            "stars": 9951
+            "stars": 9952
           }
         },
         {
@@ -2165,7 +2165,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:50:47.029Z",
+    "last_updated": "2026-08-25T09:19:41.537Z",
     "original_repository": "opendilab/awesome-RLHF",
     "original_repository_id": 601100396,
     "original_repository_sha": "96acdd4571e7bf31a61370daf6cebafcabd5580e",
