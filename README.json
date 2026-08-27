@@ -44,7 +44,7 @@
                     "last_commit": "2026-08-13T11:26:24Z",
                     "owner": "OpenRLHF",
                     "repo": "OpenRLHF",
-                    "stars": 9955
+                    "stars": 9957
                   }
                 }
               ]
@@ -132,7 +132,7 @@
                     "last_commit": "2026-08-13T11:26:24Z",
                     "owner": "OpenRLHF",
                     "repo": "OpenRLHF",
-                    "stars": 9955
+                    "stars": 9957
                   }
                 }
               ]
@@ -334,10 +334,10 @@
                     "archived": false,
                     "id": 881221486,
                     "language": "Python",
-                    "last_commit": "2026-08-26T07:58:37Z",
+                    "last_commit": "2026-08-27T09:34:36Z",
                     "owner": "verl-project",
                     "repo": "verl",
-                    "stars": 23142
+                    "stars": 23153
                   }
                 }
               ]
@@ -938,7 +938,7 @@
                     "last_commit": "2026-06-10T11:18:20Z",
                     "owner": "AlibabaResearch",
                     "repo": "DAMO-ConvAI",
-                    "stars": 1579
+                    "stars": 1580
                   }
                 }
               ]
@@ -960,7 +960,7 @@
                     "last_commit": "2026-04-14T15:29:57Z",
                     "owner": "openai",
                     "repo": "evals",
-                    "stars": 19255
+                    "stars": 19282
                   }
                 },
                 {
@@ -975,7 +975,7 @@
                     "last_commit": "2025-01-17T18:22:17Z",
                     "owner": "openai",
                     "repo": "human-eval",
-                    "stars": 3353
+                    "stars": 3355
                   }
                 }
               ]
@@ -1019,7 +1019,7 @@
                     "last_commit": "2023-09-22T03:26:38Z",
                     "owner": "GanjinZero",
                     "repo": "RRHF",
-                    "stars": 805
+                    "stars": 804
                   }
                 }
               ]
@@ -1107,7 +1107,7 @@
                     "last_commit": "2024-01-06T02:41:20Z",
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 34005
+                    "stars": 34001
                   }
                 }
               ]
@@ -1151,7 +1151,7 @@
                     "last_commit": "2024-01-08T06:54:09Z",
                     "owner": "nyu-mll",
                     "repo": "BBQ",
-                    "stars": 148
+                    "stars": 149
                   }
                 }
               ]
@@ -1305,7 +1305,7 @@
                     "last_commit": "2025-01-17T18:22:17Z",
                     "owner": "openai",
                     "repo": "human-eval",
-                    "stars": 3353
+                    "stars": 3355
                   }
                 },
                 {
@@ -1423,7 +1423,7 @@
                     "last_commit": "2024-07-02T07:36:39Z",
                     "owner": "anthropics",
                     "repo": "evals",
-                    "stars": 422
+                    "stars": 423
                   }
                 },
                 {
@@ -1438,7 +1438,7 @@
                     "last_commit": "2024-01-08T06:54:09Z",
                     "owner": "nyu-mll",
                     "repo": "BBQ",
-                    "stars": 148
+                    "stars": 149
                   }
                 }
               ]
@@ -1793,10 +1793,10 @@
             "archived": false,
             "id": 881221486,
             "language": "Python",
-            "last_commit": "2026-08-26T07:58:37Z",
+            "last_commit": "2026-08-27T09:34:36Z",
             "owner": "verl-project",
             "repo": "verl",
-            "stars": 23142
+            "stars": 23153
           }
         },
         {
@@ -1808,10 +1808,10 @@
             "archived": false,
             "id": 250510075,
             "language": "Python",
-            "last_commit": "2026-08-26T09:17:47Z",
+            "last_commit": "2026-08-27T11:07:11Z",
             "owner": "huggingface",
             "repo": "trl",
-            "stars": 19155
+            "stars": 19158
           }
         },
         {
@@ -1826,7 +1826,7 @@
             "last_commit": "2026-08-13T11:26:24Z",
             "owner": "OpenRLHF",
             "repo": "OpenRLHF",
-            "stars": 9955
+            "stars": 9957
           }
         },
         {
@@ -1841,7 +1841,7 @@
             "last_commit": "2026-07-27T23:39:41Z",
             "owner": "lucidrains",
             "repo": "PaLM-rlhf-pytorch",
-            "stars": 7867
+            "stars": 7868
           }
         },
         {
@@ -1871,7 +1871,7 @@
             "last_commit": "2024-01-08T20:07:19Z",
             "owner": "CarperAI",
             "repo": "trlx",
-            "stars": 4754
+            "stars": 4755
           }
         },
         {
@@ -2021,10 +2021,10 @@
             "archived": false,
             "id": 258270256,
             "language": "Python",
-            "last_commit": "2026-08-24T16:55:25Z",
+            "last_commit": "2026-08-26T20:15:16Z",
             "owner": "davidjurgens",
             "repo": "potato",
-            "stars": 415
+            "stars": 417
           }
         },
         {
@@ -2165,9 +2165,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:24:48.719Z",
-    "original_repository": "opendilab/awesome-RLHF",
-    "original_repository_id": 601100396,
+    "last_updated": "2026-08-27T12:05:32.146Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 601100396,
+      "language": null,
+      "last_commit": "2026-05-20T12:56:15Z",
+      "owner": "opendilab",
+      "repo": "awesome-RLHF",
+      "stars": 4422
+    },
     "original_repository_sha": "96acdd4571e7bf31a61370daf6cebafcabd5580e",
     "enhanced_repository": "enhansome/enhansome-RLHF",
     "enhanced_repository_description": null,
