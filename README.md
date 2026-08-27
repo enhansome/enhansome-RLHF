@@ -1,6 +1,6 @@
 # Awesome RLHF (RL with Human Feedback) with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,367 | 🐛 105 | 📅 2026-08-21  ![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=opendilab.awesome-RLHF\&left_text=Visitors) ![GitHub stars](https://img.shields.io/github/stars/opendilab/awesome-RLHF?color=yellow) ![GitHub forks](https://img.shields.io/github/forks/opendilab/awesome-RLHF?color=9cf) [![GitHub license](https://img.shields.io/github/license/opendilab/awesome-RLHF)](https://github.com/opendilab/awesome-RLHF/blob/main/LICENSE) ⭐ 4,422 | 🐛 6 | 📅 2026-05-20
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,480 | 🐛 105 | 📅 2026-08-21  ![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=opendilab.awesome-RLHF\&left_text=Visitors) ![GitHub stars](https://img.shields.io/github/stars/opendilab/awesome-RLHF?color=yellow) ![GitHub forks](https://img.shields.io/github/forks/opendilab/awesome-RLHF?color=9cf) [![GitHub license](https://img.shields.io/github/license/opendilab/awesome-RLHF)](https://github.com/opendilab/awesome-RLHF/blob/main/LICENSE) ⭐ 4,422 | 🐛 6 | 📅 2026-05-20
 
 This is a collection of research papers for **Reinforcement Learning with Human Feedback** (RLHF).
 And the repository will be continuously updated to track the frontier of RLHF.
@@ -631,7 +631,7 @@ format:
   * Keyword: Reward Model Evaluation, Accuracy Paradox, LLM Alignment
 
 * [Align Anything: Training All-Modality Models to Follow Instructions with Language Feedback](https://arxiv.org/abs/2412.15838)
-  * Code: [Official](https://github.com/PKU-Alignment/align-anything) ⭐ 4,667 | 🐛 32 | 🌐 Python | 📅 2025-11-27
+  * Code: [Official](https://github.com/PKU-Alignment/align-anything) ⭐ 4,668 | 🐛 32 | 🌐 Python | 📅 2025-11-27
   * Jiaming Ji, Jiayi Zhou, Hantao Lou, Boyuan Chen, Donghai Hong, Xuyao Wang, Wenqi Chen, Kaile Wang, Rui Pan, Jiahao Li, Mohan Wang, Josef Dai, Tianyi Qiu, Hua Xu, Dong Li, Weipeng Chen, Jun Song, Bo Zheng, Yaodong Yang
   * Keyword: Multi-modality Alignment, Dataset, Training-evaluation Framework
 
@@ -664,7 +664,7 @@ format:
   * Keyword: Diffusion Models, Text-to-Image, Alignment, Reinforcement Learning
 
 * [HybridFlow: A Flexible and Efficient RLHF Framework](https://arxiv.org/pdf/2409.19256v2)
-  * Code: [Official](https://github.com/volcengine/verl) ⭐ 23,153 | 🐛 1,148 | 🌐 Python | 📅 2026-08-27
+  * Code: [Official](https://github.com/volcengine/verl) ⭐ 23,159 | 🐛 1,151 | 🌐 Python | 📅 2026-08-27
   * Guangming Sheng, Chi Zhang, Zilingfeng Ye, Xibin Wu, Wang Zhang, Ru Zhang, Yanghua Peng, Haibin Lin, Chuan Wu
   * Keyword: Flexible, Efficient, RLHF framework
 
@@ -943,13 +943,13 @@ format:
   * Keyword: Natural Language Generation, Human Feedback Integration, Feedback Formalization and Taxonomy, AI Feedback and Principles-Based Judgments
 
 * [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)
-  * Code: [official](https://github.com/openai/evals) ⭐ 19,282 | 🐛 324 | 🌐 Python | 📅 2026-04-14
+  * Code: [official](https://github.com/openai/evals) ⭐ 19,287 | 🐛 324 | 🌐 Python | 📅 2026-04-14
   * Dataset: [DROP](https://allenai.org/data/drop), [WinoGrande](https://winogrande.allenai.org/), [HellaSwag](https://rowanzellers.com/hellaswag/), [ARC](https://allenai.org/data/arc), [HumanEval](https://github.com/openai/human-eval) ⭐ 3,355 | 🐛 45 | 🌐 Python | 📅 2025-01-17, [GSM8K](https://paperswithcode.com/dataset/gsm8k), [MMLU](https://paperswithcode.com/dataset/mmlu), [TruthfulQA](https://github.com/sylinrl/TruthfulQA) ⭐ 941 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2025-01-16
   * OpenAI
   * Keyword: A large-scale, multimodal model, Transformerbased model, Fine-tuned used RLHF
 
 * [RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment](https://arxiv.org/pdf/2304.06767.pdf)
-  * Code: [official](https://github.com/OptimalScale/LMFlow) ⭐ 8,484 | 🐛 86 | 🌐 Python | 📅 2026-08-10
+  * Code: [official](https://github.com/OptimalScale/LMFlow) ⭐ 8,485 | 🐛 86 | 🌐 Python | 📅 2026-08-10
   * Hanze Dong, Wei Xiong, Deepanshu Goyal, Rui Pan, Shizhe Diao, Jipeng Zhang, Kashun Shum, Tong Zhang
   * Keyword: Rejection Sampling Finetuning, Alternative to PPO, Diffusion Model
 
@@ -1132,11 +1132,11 @@ format:
   - experiment environments, datasets or tasks
 ```
 
-* [veRL: Volcano Engine Reinforcement Learning for LLM](https://github.com/volcengine/verl) ⭐ 23,153 | 🐛 1,148 | 🌐 Python | 📅 2026-08-27
+* [veRL: Volcano Engine Reinforcement Learning for LLM](https://github.com/volcengine/verl) ⭐ 23,159 | 🐛 1,151 | 🌐 Python | 📅 2026-08-27
   * ByteDance Seed MLSys Team & HKU: Guangming Sheng, Chi Zhang, Zilingfeng Ye, Xibin Wu, Wang Zhang, Ru Zhang, Yanghua Peng, Haibin Lin, Chuan Wu
   * Keyword: Flexible, Efficient, RLHF framework
   * Tasks: RLHF, Reasoning tasks including math and code.
-* [Transformer Reinforcement Learning (TRL)](https://github.com/lvwerra/trl) ⭐ 19,158 | 🐛 289 | 🌐 Python | 📅 2026-08-27
+* [Transformer Reinforcement Learning (TRL)](https://github.com/lvwerra/trl) ⭐ 19,160 | 🐛 290 | 🌐 Python | 📅 2026-08-27
   * Leandro von Werra, Younes Belkada, Lewis Tunstall, et al.
   * Keyword: Train LLM with RL, PPO, Transformer
   * Task: [IMDB sentiment](https://www.imdb.com/interfaces/)
@@ -1200,7 +1200,7 @@ format:
   * Task: educational purposes
 * [FG-RLHF](https://finegrainedrlhf.github.io/)
   * Task: A framework that enables training and learning from reward functions that are fine-grained in density and multiple RMs
-    -[Safe-RLHF](https://github.com/PKU-Alignment/safe-rlhf) ⭐ 1,611 | 🐛 18 | 🌐 Python | 📅 2025-11-24
+    -[Safe-RLHF](https://github.com/PKU-Alignment/safe-rlhf) ⭐ 1,612 | 🐛 18 | 🌐 Python | 📅 2025-11-24
   * Zeqiu Wu, Yushi Hu, Weijia Shi, et al.
   * Keyword: Fine-Grained RLHF, providing a reward after every segment, Incorporating multiple RMs associated with different feedback types
   * Xuehai Pan, Ruiyang Sun, Jiaming Ji, et al.

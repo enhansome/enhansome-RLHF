@@ -227,7 +227,7 @@
                     "last_commit": "2025-11-27T06:50:36Z",
                     "owner": "PKU-Alignment",
                     "repo": "align-anything",
-                    "stars": 4667
+                    "stars": 4668
                   }
                 }
               ]
@@ -337,7 +337,7 @@
                     "last_commit": "2026-08-27T09:34:36Z",
                     "owner": "verl-project",
                     "repo": "verl",
-                    "stars": 23153
+                    "stars": 23159
                   }
                 }
               ]
@@ -960,7 +960,7 @@
                     "last_commit": "2026-04-14T15:29:57Z",
                     "owner": "openai",
                     "repo": "evals",
-                    "stars": 19282
+                    "stars": 19287
                   }
                 },
                 {
@@ -997,7 +997,7 @@
                     "last_commit": "2026-08-10T06:56:25Z",
                     "owner": "OptimalScale",
                     "repo": "LMFlow",
-                    "stars": 8484
+                    "stars": 8485
                   }
                 }
               ]
@@ -1261,7 +1261,7 @@
                     "last_commit": "2024-07-23T23:39:41Z",
                     "owner": "google-research",
                     "repo": "bert",
-                    "stars": 40046
+                    "stars": 40045
                   }
                 }
               ]
@@ -1796,7 +1796,7 @@
             "last_commit": "2026-08-27T09:34:36Z",
             "owner": "verl-project",
             "repo": "verl",
-            "stars": 23153
+            "stars": 23159
           }
         },
         {
@@ -1808,10 +1808,10 @@
             "archived": false,
             "id": 250510075,
             "language": "Python",
-            "last_commit": "2026-08-27T11:07:11Z",
+            "last_commit": "2026-08-27T17:16:05Z",
             "owner": "huggingface",
             "repo": "trl",
-            "stars": 19158
+            "stars": 19160
           }
         },
         {
@@ -2089,7 +2089,7 @@
                 "last_commit": "2025-11-24T04:07:51Z",
                 "owner": "PKU-Alignment",
                 "repo": "safe-rlhf",
-                "stars": 1611
+                "stars": 1612
               }
             }
           ]
@@ -2165,7 +2165,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:05:32.146Z",
+    "last_updated": "2026-08-27T19:15:55.399Z",
     "original_repository_info": {
       "archived": false,
       "id": 601100396,
