@@ -23,7 +23,8 @@
                     "owner": "rmovva",
                     "repo": "wimhf",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -45,7 +46,8 @@
                     "owner": "OpenRLHF",
                     "repo": "OpenRLHF",
                     "stars": 9957
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -67,7 +69,8 @@
                     "owner": "Kwai-YuanQi",
                     "repo": "MM-RLHF",
                     "stars": 199
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -89,7 +92,8 @@
                     "owner": "Simplified-Reasoning",
                     "repo": "TPO",
                     "stars": 185
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -111,7 +115,8 @@
                     "owner": "yinyueqin",
                     "repo": "DenseRewardRLHF-PPO",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -133,7 +138,8 @@
                     "owner": "OpenRLHF",
                     "repo": "OpenRLHF",
                     "stars": 9957
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             }
@@ -162,7 +168,8 @@
                     "owner": "zkshan2002",
                     "repo": "RTO",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -184,7 +191,8 @@
                     "owner": "shenao-zhang",
                     "repo": "reward-augmented-preference",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -206,7 +214,8 @@
                     "owner": "EIT-NLP",
                     "repo": "AccuracyParadox-RLHF",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -228,7 +237,8 @@
                     "owner": "PKU-Alignment",
                     "repo": "align-anything",
                     "stars": 4668
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -250,7 +260,8 @@
                     "owner": "RishiHazra",
                     "repo": "Revolve",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -272,7 +283,8 @@
                     "owner": "ernie-research",
                     "repo": "MA-RLHF",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -294,7 +306,8 @@
                     "owner": "LoveCatc",
                     "repo": "OrdinalRewardModeling",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -316,7 +329,8 @@
                     "owner": "ZiyiZhang27",
                     "repo": "sdpo",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -334,11 +348,12 @@
                     "archived": false,
                     "id": 881221486,
                     "language": "Python",
-                    "last_commit": "2026-08-27T09:34:36Z",
+                    "last_commit": "2026-08-28T07:26:14Z",
                     "owner": "verl-project",
                     "repo": "verl",
-                    "stars": 23159
-                  }
+                    "stars": 23179
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -360,7 +375,8 @@
                     "owner": "halfrot",
                     "repo": "ALaRM",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -381,8 +397,9 @@
                     "last_commit": "2023-11-01T04:35:34Z",
                     "owner": "llava-rlhf",
                     "repo": "LLaVA-RLHF",
-                    "stars": 398
-                  }
+                    "stars": 399
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -404,7 +421,8 @@
                     "owner": "exlaw",
                     "repo": "DLMA",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -426,7 +444,8 @@
                     "owner": "RLHFlow",
                     "repo": "Directional-Preference-Alignment",
                     "stars": 62
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -448,7 +467,8 @@
                     "owner": "RUCAIBox",
                     "repo": "RLMEC",
                     "stars": 39
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -470,7 +490,8 @@
                     "owner": "XanderJC",
                     "repo": "attention-based-credit",
                     "stars": 38
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -492,7 +513,8 @@
                     "owner": "RLHF-V",
                     "repo": "RLHF-V",
                     "stars": 311
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -514,7 +536,8 @@
                     "owner": "RLHFlow",
                     "repo": "Online-RLHF",
                     "stars": 544
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -536,7 +559,8 @@
                     "owner": "Cornell-RL",
                     "repo": "drpo",
                     "stars": 30
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -558,7 +582,8 @@
                     "owner": "Shentao-YANG",
                     "repo": "Dense_Reward_T2I",
                     "stars": 38
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -579,8 +604,9 @@
                     "last_commit": "2024-05-08T05:59:37Z",
                     "owner": "uclaml",
                     "repo": "SPIN",
-                    "stars": 1254
-                  }
+                    "stars": 1255
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -602,7 +628,8 @@
                     "owner": "ZiyiZhang27",
                     "repo": "tdpo",
                     "stars": 38
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -624,7 +651,8 @@
                     "owner": "dunzeng",
                     "repo": "MORE",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -646,7 +674,8 @@
                     "owner": "ZHZisZZ",
                     "repo": "modpo",
                     "stars": 101
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -668,7 +697,8 @@
                     "owner": "ZHZisZZ",
                     "repo": "emulated-disalignment",
                     "stars": 39
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -690,7 +720,8 @@
                     "owner": "XanderJC",
                     "repo": "attention-based-credit",
                     "stars": 38
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -712,7 +743,8 @@
                     "owner": "CJReinforce",
                     "repo": "RIME_ICML2024",
                     "stars": 36
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -734,7 +766,8 @@
                     "owner": "pickxiguapi",
                     "repo": "Uni-RLHF-Platform",
                     "stars": 42
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             }
@@ -763,7 +796,8 @@
                     "owner": "shadowkiller33",
                     "repo": "Contrast-Instruction",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -785,7 +819,8 @@
                     "owner": "allenai",
                     "repo": "FineGrainedRLHF",
                     "stars": 283
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -807,7 +842,8 @@
                     "owner": "Shentao-YANG",
                     "repo": "Preference_Grounded_Guidance",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -829,7 +865,8 @@
                     "owner": "Shentao-YANG",
                     "repo": "Fantastic_Reward_ICLR2023",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -851,7 +888,8 @@
                     "owner": "jhejna",
                     "repo": "inverse-preference-learning",
                     "stars": 43
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -873,7 +911,8 @@
                     "owner": "tatsu-lab",
                     "repo": "alpaca_farm",
                     "stars": 845
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -895,7 +934,8 @@
                     "owner": "Linear95",
                     "repo": "APO",
                     "stars": 54
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -917,7 +957,8 @@
                     "owner": "tianjunz",
                     "repo": "HIR",
                     "stars": 157
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -939,7 +980,8 @@
                     "owner": "AlibabaResearch",
                     "repo": "DAMO-ConvAI",
                     "stars": 1580
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -960,8 +1002,9 @@
                     "last_commit": "2026-04-14T15:29:57Z",
                     "owner": "openai",
                     "repo": "evals",
-                    "stars": 19287
-                  }
+                    "stars": 19295
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 },
                 {
                   "node_type": "item",
@@ -976,7 +1019,8 @@
                     "owner": "openai",
                     "repo": "human-eval",
                     "stars": 3355
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -997,8 +1041,9 @@
                     "last_commit": "2026-08-10T06:56:25Z",
                     "owner": "OptimalScale",
                     "repo": "LMFlow",
-                    "stars": 8485
-                  }
+                    "stars": 8486
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -1020,7 +1065,8 @@
                     "owner": "GanjinZero",
                     "repo": "RRHF",
                     "stars": 804
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -1042,7 +1088,8 @@
                     "owner": "jhejna",
                     "repo": "few-shot-preference-rl",
                     "stars": 38
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -1064,7 +1111,8 @@
                     "owner": "tgxs002",
                     "repo": "align_sd",
                     "stars": 292
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -1086,7 +1134,8 @@
                     "owner": "zai-org",
                     "repo": "ImageReward",
                     "stars": 1702
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -1107,8 +1156,9 @@
                     "last_commit": "2024-01-06T02:41:20Z",
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 34001
-                  }
+                    "stars": 34000
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -1130,7 +1180,8 @@
                     "owner": "tomekkorbak",
                     "repo": "pretraining-with-human-feedback",
                     "stars": 183
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -1152,7 +1203,8 @@
                     "owner": "nyu-mll",
                     "repo": "BBQ",
                     "stars": 149
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             }
@@ -1181,7 +1233,8 @@
                     "owner": "allenai",
                     "repo": "RL4LMs",
                     "stars": 2394
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 },
                 {
                   "node_type": "item",
@@ -1196,7 +1249,8 @@
                     "owner": "abisee",
                     "repo": "cnn-dailymail",
                     "stars": 662
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -1218,7 +1272,8 @@
                     "owner": "nyu-mll",
                     "repo": "quality",
                     "stars": 153
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -1240,7 +1295,8 @@
                     "owner": "anthropics",
                     "repo": "hh-rlhf",
                     "stars": 1856
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -1261,8 +1317,9 @@
                     "last_commit": "2024-07-23T23:39:41Z",
                     "owner": "google-research",
                     "repo": "bert",
-                    "stars": 40045
-                  }
+                    "stars": 40046
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -1284,7 +1341,8 @@
                     "owner": "GXimingLu",
                     "repo": "Quark",
                     "stars": 75
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -1306,7 +1364,8 @@
                     "owner": "openai",
                     "repo": "human-eval",
                     "stars": 3355
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 },
                 {
                   "node_type": "item",
@@ -1321,7 +1380,8 @@
                     "owner": "anthropics",
                     "repo": "hh-rlhf",
                     "stars": 1856
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -1343,7 +1403,8 @@
                     "owner": "nyu-mll",
                     "repo": "quality",
                     "stars": 153
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -1365,7 +1426,8 @@
                     "owner": "openai",
                     "repo": "following-instructions-human-feedback",
                     "stars": 1259
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 },
                 {
                   "node_type": "item",
@@ -1380,7 +1442,8 @@
                     "owner": "sylinrl",
                     "repo": "TruthfulQA",
                     "stars": 941
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -1402,7 +1465,8 @@
                     "owner": "anthropics",
                     "repo": "ConstitutionalHarmlessnessPaper",
                     "stars": 266
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -1424,7 +1488,8 @@
                     "owner": "anthropics",
                     "repo": "evals",
                     "stars": 423
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 },
                 {
                   "node_type": "item",
@@ -1439,7 +1504,8 @@
                     "owner": "nyu-mll",
                     "repo": "BBQ",
                     "stars": 149
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -1461,7 +1527,8 @@
                     "owner": "JAEarly",
                     "repo": "MIL-for-Non-Markovian-Reward-Modelling",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -1483,7 +1550,8 @@
                     "owner": "rll-research",
                     "repo": "rune",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             }
@@ -1512,7 +1580,8 @@
                     "owner": "sylinrl",
                     "repo": "TruthfulQA",
                     "stars": 941
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -1534,7 +1603,8 @@
                     "owner": "salesforce",
                     "repo": "booksum",
                     "stars": 199
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -1556,7 +1626,8 @@
                     "owner": "samuki",
                     "repo": "reinforce-joey",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -1578,7 +1649,8 @@
                     "owner": "rll-research",
                     "repo": "BPref",
                     "stars": 138
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -1600,7 +1672,8 @@
                     "owner": "rll-research",
                     "repo": "BPref",
                     "stars": 138
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             }
@@ -1629,7 +1702,8 @@
                     "owner": "openai",
                     "repo": "summarize-from-feedback",
                     "stars": 1062
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 },
                 {
                   "node_type": "item",
@@ -1644,7 +1718,8 @@
                     "owner": "abisee",
                     "repo": "cnn-dailymail",
                     "stars": 662
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -1666,7 +1741,8 @@
                     "owner": "openai",
                     "repo": "lm-human-preferences",
                     "stars": 1391
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 },
                 {
                   "node_type": "item",
@@ -1681,7 +1757,8 @@
                     "owner": "abisee",
                     "repo": "cnn-dailymail",
                     "stars": 662
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -1703,7 +1780,8 @@
                     "owner": "rddy",
                     "repo": "ReQueST",
                     "stars": 86
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -1725,7 +1803,8 @@
                     "owner": "rddy",
                     "repo": "ReQueST",
                     "stars": 86
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -1747,7 +1826,8 @@
                     "owner": "bharadwaj1098",
                     "repo": "Tamer",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             },
@@ -1769,7 +1849,8 @@
                     "owner": "mrahtz",
                     "repo": "learning-from-human-preferences",
                     "stars": 337
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:25:09.696Z"
                 }
               ]
             }
@@ -1793,11 +1874,12 @@
             "archived": false,
             "id": 881221486,
             "language": "Python",
-            "last_commit": "2026-08-27T09:34:36Z",
+            "last_commit": "2026-08-28T07:26:14Z",
             "owner": "verl-project",
             "repo": "verl",
-            "stars": 23159
-          }
+            "stars": 23179
+          },
+          "first_seen": "2026-08-28T20:25:09.696Z"
         },
         {
           "node_type": "item",
@@ -1808,11 +1890,12 @@
             "archived": false,
             "id": 250510075,
             "language": "Python",
-            "last_commit": "2026-08-27T17:16:05Z",
+            "last_commit": "2026-08-28T16:20:00Z",
             "owner": "huggingface",
             "repo": "trl",
-            "stars": 19160
-          }
+            "stars": 19171
+          },
+          "first_seen": "2026-08-28T20:25:09.696Z"
         },
         {
           "node_type": "item",
@@ -1827,7 +1910,8 @@
             "owner": "OpenRLHF",
             "repo": "OpenRLHF",
             "stars": 9957
-          }
+          },
+          "first_seen": "2026-08-28T20:25:09.696Z"
         },
         {
           "node_type": "item",
@@ -1841,8 +1925,9 @@
             "last_commit": "2026-07-27T23:39:41Z",
             "owner": "lucidrains",
             "repo": "PaLM-rlhf-pytorch",
-            "stars": 7868
-          }
+            "stars": 7867
+          },
+          "first_seen": "2026-08-28T20:25:09.696Z"
         },
         {
           "node_type": "item",
@@ -1856,8 +1941,9 @@
             "last_commit": "2026-08-26T05:14:10Z",
             "owner": "deepspeedai",
             "repo": "DeepSpeedExamples",
-            "stars": 6840
-          }
+            "stars": 6841
+          },
+          "first_seen": "2026-08-28T20:25:09.696Z"
         },
         {
           "node_type": "item",
@@ -1872,7 +1958,8 @@
             "owner": "CarperAI",
             "repo": "trlx",
             "stars": 4755
-          }
+          },
+          "first_seen": "2026-08-28T20:25:09.696Z"
         },
         {
           "node_type": "item",
@@ -1892,7 +1979,8 @@
                 "owner": "abisee",
                 "repo": "cnn-dailymail",
                 "stars": 662
-              }
+              },
+              "first_seen": "2026-08-28T20:25:09.696Z"
             }
           ],
           "repo_info": {
@@ -1903,7 +1991,8 @@
             "owner": "allenai",
             "repo": "RL4LMs",
             "stars": 2394
-          }
+          },
+          "first_seen": "2026-08-28T20:25:09.696Z"
         },
         {
           "node_type": "item",
@@ -1923,7 +2012,8 @@
                 "owner": "abisee",
                 "repo": "cnn-dailymail",
                 "stars": 662
-              }
+              },
+              "first_seen": "2026-08-28T20:25:09.696Z"
             }
           ],
           "repo_info": {
@@ -1934,7 +2024,8 @@
             "owner": "openai",
             "repo": "lm-human-preferences",
             "stars": 1391
-          }
+          },
+          "first_seen": "2026-08-28T20:25:09.696Z"
         },
         {
           "node_type": "item",
@@ -1954,7 +2045,8 @@
                 "owner": "sylinrl",
                 "repo": "TruthfulQA",
                 "stars": 941
-              }
+              },
+              "first_seen": "2026-08-28T20:25:09.696Z"
             }
           ],
           "repo_info": {
@@ -1965,7 +2057,8 @@
             "owner": "openai",
             "repo": "following-instructions-human-feedback",
             "stars": 1259
-          }
+          },
+          "first_seen": "2026-08-28T20:25:09.696Z"
         },
         {
           "node_type": "item",
@@ -1980,7 +2073,8 @@
             "owner": "IBM",
             "repo": "Dromedary",
             "stars": 1137
-          }
+          },
+          "first_seen": "2026-08-28T20:25:09.696Z"
         },
         {
           "node_type": "item",
@@ -1995,7 +2089,8 @@
             "owner": "voidful",
             "repo": "TextRL",
             "stars": 564
-          }
+          },
+          "first_seen": "2026-08-28T20:25:09.696Z"
         },
         {
           "node_type": "item",
@@ -2010,7 +2105,8 @@
             "owner": "conceptofmind",
             "repo": "LaMDA-rlhf-pytorch",
             "stars": 467
-          }
+          },
+          "first_seen": "2026-08-28T20:25:09.696Z"
         },
         {
           "node_type": "item",
@@ -2021,11 +2117,12 @@
             "archived": false,
             "id": 258270256,
             "language": "Python",
-            "last_commit": "2026-08-26T20:15:16Z",
+            "last_commit": "2026-08-28T13:32:51Z",
             "owner": "davidjurgens",
             "repo": "potato",
             "stars": 417
-          }
+          },
+          "first_seen": "2026-08-28T20:25:09.696Z"
         },
         {
           "node_type": "item",
@@ -2040,7 +2137,8 @@
             "owner": "ash80",
             "repo": "RLHF_in_notebooks",
             "stars": 252
-          }
+          },
+          "first_seen": "2026-08-28T20:25:09.696Z"
         },
         {
           "node_type": "item",
@@ -2055,7 +2153,8 @@
             "owner": "McGill-NLP",
             "repo": "VinePPO",
             "stars": 192
-          }
+          },
+          "first_seen": "2026-08-28T20:25:09.696Z"
         },
         {
           "node_type": "item",
@@ -2070,7 +2169,8 @@
             "owner": "thomfoster",
             "repo": "minRLHF",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T20:25:09.696Z"
         },
         {
           "node_type": "group",
@@ -2090,7 +2190,8 @@
                 "owner": "PKU-Alignment",
                 "repo": "safe-rlhf",
                 "stars": 1612
-              }
+              },
+              "first_seen": "2026-08-28T20:25:09.696Z"
             }
           ]
         }
@@ -2113,7 +2214,8 @@
             "owner": "bigscience-workshop",
             "repo": "promptsource",
             "stars": 3031
-          }
+          },
+          "first_seen": "2026-08-28T20:25:09.696Z"
         },
         {
           "node_type": "item",
@@ -2128,7 +2230,8 @@
             "owner": "anthropics",
             "repo": "hh-rlhf",
             "stars": 1856
-          }
+          },
+          "first_seen": "2026-08-28T20:25:09.696Z"
         },
         {
           "node_type": "item",
@@ -2143,7 +2246,8 @@
             "owner": "google-research",
             "repo": "FLAN",
             "stars": 1567
-          }
+          },
+          "first_seen": "2026-08-28T20:25:09.696Z"
         },
         {
           "node_type": "item",
@@ -2158,14 +2262,15 @@
             "owner": "agi-templar",
             "repo": "Stable-Alignment",
             "stars": 357
-          }
+          },
+          "first_seen": "2026-08-28T20:25:09.696Z"
         }
       ],
       "title": "Dataset"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:15:55.399Z",
+    "last_updated": "2026-08-28T20:25:09.696Z",
     "original_repository_info": {
       "archived": false,
       "id": 601100396,
