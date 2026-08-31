@@ -463,11 +463,11 @@
                     "id": 881221486,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-29T01:39:09Z",
-                    "open_issues": 1163,
+                    "last_commit": "2026-08-31T14:28:00Z",
+                    "open_issues": 1156,
                     "owner": "verl-project",
                     "repo": "verl",
-                    "stars": 23204,
+                    "stars": 23225,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:25:09.696Z"
@@ -1192,7 +1192,7 @@
                     "open_issues": 6,
                     "owner": "tatsu-lab",
                     "repo": "alpaca_farm",
-                    "stars": 845,
+                    "stars": 844,
                     "topics": [
                       "deep-learning",
                       "instruction-following",
@@ -1282,7 +1282,7 @@
                     "open_issues": 79,
                     "owner": "AlibabaResearch",
                     "repo": "DAMO-ConvAI",
-                    "stars": 1580,
+                    "stars": 1588,
                     "topics": [
                       "conversational-ai",
                       "deep-learning",
@@ -1315,7 +1315,7 @@
                     "open_issues": 327,
                     "owner": "openai",
                     "repo": "evals",
-                    "stars": 19307,
+                    "stars": 19343,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:25:09.696Z"
@@ -1336,7 +1336,7 @@
                     "open_issues": 45,
                     "owner": "openai",
                     "repo": "human-eval",
-                    "stars": 3357,
+                    "stars": 3358,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:25:09.696Z"
@@ -1486,7 +1486,7 @@
                     "open_issues": 61,
                     "owner": "zai-org",
                     "repo": "ImageReward",
-                    "stars": 1702,
+                    "stars": 1703,
                     "topics": [
                       "diffusion-models",
                       "generative-model",
@@ -1519,7 +1519,7 @@
                     "open_issues": 261,
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 33998,
+                    "stars": 33996,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:25:09.696Z"
@@ -1584,7 +1584,7 @@
                     "open_issues": 8,
                     "owner": "nyu-mll",
                     "repo": "BBQ",
-                    "stars": 149,
+                    "stars": 150,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:25:09.696Z"
@@ -1619,7 +1619,7 @@
                     "open_issues": 53,
                     "owner": "allenai",
                     "repo": "RL4LMs",
-                    "stars": 2394,
+                    "stars": 2395,
                     "topics": [
                       "dialogue-generation",
                       "language-modeling",
@@ -1734,7 +1734,7 @@
                     "open_issues": 880,
                     "owner": "google-research",
                     "repo": "bert",
-                    "stars": 40046,
+                    "stars": 40047,
                     "topics": [
                       "google",
                       "natural-language-processing",
@@ -1768,7 +1768,7 @@
                     "open_issues": 3,
                     "owner": "GXimingLu",
                     "repo": "Quark",
-                    "stars": 75,
+                    "stars": 76,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:25:09.696Z"
@@ -1796,7 +1796,7 @@
                     "open_issues": 45,
                     "owner": "openai",
                     "repo": "human-eval",
-                    "stars": 3357,
+                    "stars": 3358,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:25:09.696Z"
@@ -1950,7 +1950,7 @@
                     "open_issues": 1,
                     "owner": "anthropics",
                     "repo": "evals",
-                    "stars": 424,
+                    "stars": 425,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:25:09.696Z"
@@ -1971,7 +1971,7 @@
                     "open_issues": 8,
                     "owner": "nyu-mll",
                     "repo": "BBQ",
-                    "stars": 149,
+                    "stars": 150,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:25:09.696Z"
@@ -2424,11 +2424,11 @@
             "id": 881221486,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T01:39:09Z",
-            "open_issues": 1163,
+            "last_commit": "2026-08-31T14:28:00Z",
+            "open_issues": 1156,
             "owner": "verl-project",
             "repo": "verl",
-            "stars": 23204,
+            "stars": 23225,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:09.696Z"
@@ -2445,11 +2445,11 @@
             "id": 250510075,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-30T13:25:41Z",
+            "last_commit": "2026-08-31T14:00:35Z",
             "open_issues": 303,
             "owner": "huggingface",
             "repo": "trl",
-            "stars": 19180,
+            "stars": 19187,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:09.696Z"
@@ -2500,7 +2500,7 @@
             "open_issues": 20,
             "owner": "lucidrains",
             "repo": "PaLM-rlhf-pytorch",
-            "stars": 7867,
+            "stars": 7866,
             "topics": [
               "artificial-intelligence",
               "attention-mechanisms",
@@ -2528,7 +2528,7 @@
             "open_issues": 327,
             "owner": "deepspeedai",
             "repo": "DeepSpeedExamples",
-            "stars": 6841,
+            "stars": 6843,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:09.696Z"
@@ -2596,7 +2596,7 @@
             "open_issues": 53,
             "owner": "allenai",
             "repo": "RL4LMs",
-            "stars": 2394,
+            "stars": 2395,
             "topics": [
               "dialogue-generation",
               "language-modeling",
@@ -2791,7 +2791,7 @@
             "id": 258270256,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-28T13:32:51Z",
+            "last_commit": "2026-08-31T14:46:04Z",
             "open_issues": 3,
             "owner": "davidjurgens",
             "repo": "potato",
@@ -2947,7 +2947,7 @@
             "open_issues": 44,
             "owner": "bigscience-workshop",
             "repo": "promptsource",
-            "stars": 3030,
+            "stars": 3032,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -3024,7 +3024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T13:59:42.603Z",
+    "last_updated": "2026-08-31T16:23:19.172Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of reinforcement learning with human feedback resources (continually updated)",
