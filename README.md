@@ -1,6 +1,6 @@
 # Awesome RLHF (RL with Human Feedback) with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,966 | 🐛 106 | 📅 2026-09-02  ![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=opendilab.awesome-RLHF\&left_text=Visitors) ![GitHub stars](https://img.shields.io/github/stars/opendilab/awesome-RLHF?color=yellow) ![GitHub forks](https://img.shields.io/github/forks/opendilab/awesome-RLHF?color=9cf) [![GitHub license](https://img.shields.io/github/license/opendilab/awesome-RLHF)](https://github.com/opendilab/awesome-RLHF/blob/main/LICENSE) ⭐ 4,425 | 🐛 7 | 📅 2026-05-20
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 506,231 | 🐛 106 | 📅 2026-09-02  ![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=opendilab.awesome-RLHF\&left_text=Visitors) ![GitHub stars](https://img.shields.io/github/stars/opendilab/awesome-RLHF?color=yellow) ![GitHub forks](https://img.shields.io/github/forks/opendilab/awesome-RLHF?color=9cf) [![GitHub license](https://img.shields.io/github/license/opendilab/awesome-RLHF)](https://github.com/opendilab/awesome-RLHF/blob/main/LICENSE) ⭐ 4,426 | 🐛 7 | 📅 2026-05-20
 
 This is a collection of research papers for **Reinforcement Learning with Human Feedback** (RLHF).
 And the repository will be continuously updated to track the frontier of RLHF.
@@ -557,7 +557,7 @@ format:
   * Keyword: Online RL, Multi-armed Bandit, LLMs
 
 * [OpenRLHF: A Ray-based Easy-to-use, Scalable and High-performance RLHF Framework](https://aclanthology.org/2025.emnlp-demos.48/)
-  * Code: [Official](https://github.com/OpenRLHF/OpenRLHF) ⭐ 10,003 | 🐛 372 | 🌐 Python | 📅 2026-09-14
+  * Code: [Official](https://github.com/OpenRLHF/OpenRLHF) ⭐ 10,005 | 🐛 380 | 🌐 Python | 📅 2026-09-14
   * Jian Hu, Xibin Wu, Wei Shen, Jason Klein Liu, Weixun Wang, Songlin Jiang, Haoran Wang, Hao Chen, Bin Chen, Wenkai Fang, Xianyu, Yu Cao, Haotian Xu, Yiming Liu
   * Keyword: Framework
 
@@ -599,7 +599,7 @@ format:
   * Keyword: Critique-based Reward Model, Dynamic Reward, Dataset
 
 * [Test-Time Preference Optimization: On-the-Fly Alignment via Iterative Textual Feedback](https://arxiv.org/abs/2501.12895)
-  * Code: [Official](https://github.com/yafuly/TPO) ⭐ 185 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-05-08
+  * Code: [Official](https://github.com/yafuly/TPO) ⭐ 186 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-05-08
   * Yafu Li, Xuyang Hu, Xiaoye Qu, Linjie Li, Yu Cheng
   * Keyword: Test-Time Optimization, Preference Learning, Iterative Feedback
 
@@ -609,7 +609,7 @@ format:
   * Keyword: Segment-level Reward Model, Dense Reward RLHF Framework, Improved PPO training for LLMs
 
 * [REINFORCE++: A Simple and Efficient Approach for Aligning Large Language Models](https://arxiv.org/abs/2501.03262)
-  * Code: [Official](https://github.com/OpenRLHF/OpenRLHF/blob/main/examples/scripts/train_reinforce_llama_ray.sh) ⭐ 10,003 | 🐛 372 | 🌐 Python | 📅 2026-09-14
+  * Code: [Official](https://github.com/OpenRLHF/OpenRLHF/blob/main/examples/scripts/train_reinforce_llama_ray.sh) ⭐ 10,005 | 🐛 380 | 🌐 Python | 📅 2026-09-14
   * Jian Hu
   * Keyword: Efficient, Alignment, Reinforcement Learning
 
@@ -649,7 +649,7 @@ format:
   * Keyword: Joint Reward and Policy, Efficiency, Framework
 
 * [MA-RLHF: Reinforcement Learning from Human Feedback with Macro Actions](https://arxiv.org/abs/2410.02743)
-  * Code: [Official](https://github.com/ernie-research/MA-RLHF) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2025-06-06
+  * Code: [Official](https://github.com/ernie-research/MA-RLHF) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2025-06-06
   * Yekun Chai, Haoran Sun, Huang Fang, Shuohuan Wang, Yu Sun, Hua Wu
   * Keyword: Macro action-level Reward, Efficiency, Framework
 
@@ -664,7 +664,7 @@ format:
   * Keyword: Diffusion Models, Text-to-Image, Alignment, Reinforcement Learning
 
 * [HybridFlow: A Flexible and Efficient RLHF Framework](https://arxiv.org/pdf/2409.19256v2)
-  * Code: [Official](https://github.com/volcengine/verl) ⭐ 23,415 | 🐛 1,223 | 🌐 Python | 📅 2026-09-14
+  * Code: [Official](https://github.com/volcengine/verl) ⭐ 23,433 | 🐛 1,223 | 🌐 Python | 📅 2026-09-15
   * Guangming Sheng, Chi Zhang, Zilingfeng Ye, Xibin Wu, Wang Zhang, Ru Zhang, Yanghua Peng, Haibin Lin, Chuan Wu
   * Keyword: Flexible, Efficient, RLHF framework
 
@@ -749,7 +749,7 @@ format:
   * Keyword: RLHF for Text-to-Image Generation, Dense Reward Improvement of DPO, Efficient Alignment
 
 * [Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/pdf/2401.01335)
-  * Code: [official](https://github.com/uclaml/SPIN) ⭐ 1,254 | 🐛 24 | 🌐 Python | 📅 2024-05-08
+  * Code: [official](https://github.com/uclaml/SPIN) ⭐ 1,255 | 🐛 24 | 🌐 Python | 📅 2024-05-08
   * Zixiang Chen, Yihe Deng, Huizhuo Yuan, Kaixuan Ji, Quanquan Gu
   * Keyword: Self-Play Fine-Tuning
 
@@ -934,7 +934,7 @@ format:
   * Keyword: Decision Transformer-based Alignment, Offline Reinforcement Learning, RLHF System
 
 * [Preference Ranking Optimization for Human Alignment](https://arxiv.org/pdf/2306.17492)
-  * Code: [official](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/PRO) ⭐ 1,595 | 🐛 80 | 🌐 Python | 📅 2026-06-10
+  * Code: [official](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/PRO) ⭐ 1,595 | 🐛 80 | 🌐 Python | 📅 2026-09-15
   * Feifan Song, Bowen Yu, Minghao Li, Haiyang Yu, Fei Huang, Yongbin Li and Houfeng Wang
   * Keyword: Supervised Human Preference Alignment, Preference Ranking Extension
 
@@ -943,8 +943,8 @@ format:
   * Keyword: Natural Language Generation, Human Feedback Integration, Feedback Formalization and Taxonomy, AI Feedback and Principles-Based Judgments
 
 * [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)
-  * Code: [official](https://github.com/openai/evals) ⭐ 19,449 | 🐛 339 | 🌐 Python | 📅 2026-04-14
-  * Dataset: [DROP](https://allenai.org/data/drop), [WinoGrande](https://winogrande.allenai.org/), [HellaSwag](https://rowanzellers.com/hellaswag/), [ARC](https://allenai.org/data/arc), [HumanEval](https://github.com/openai/human-eval) ⭐ 3,377 | 🐛 45 | 🌐 Python | 📅 2025-01-17, [GSM8K](https://paperswithcode.com/dataset/gsm8k), [MMLU](https://paperswithcode.com/dataset/mmlu), [TruthfulQA](https://github.com/sylinrl/TruthfulQA) ⭐ 945 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2025-01-16
+  * Code: [official](https://github.com/openai/evals) ⭐ 19,456 | 🐛 340 | 🌐 Python | 📅 2026-04-14
+  * Dataset: [DROP](https://allenai.org/data/drop), [WinoGrande](https://winogrande.allenai.org/), [HellaSwag](https://rowanzellers.com/hellaswag/), [ARC](https://allenai.org/data/arc), [HumanEval](https://github.com/openai/human-eval) ⭐ 3,381 | 🐛 45 | 🌐 Python | 📅 2025-01-17, [GSM8K](https://paperswithcode.com/dataset/gsm8k), [MMLU](https://paperswithcode.com/dataset/mmlu), [TruthfulQA](https://github.com/sylinrl/TruthfulQA) ⭐ 945 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2025-01-16
   * OpenAI
   * Keyword: A large-scale, multimodal model, Transformerbased model, Fine-tuned used RLHF
 
@@ -1028,7 +1028,7 @@ format:
   * Keyword: Fine-tuning the language model on signals of what not to do, Decision Transformer, LLM tuning with PPO
   * Dataset: [WRITINGPROMPTS](https://www.kaggle.com/datasets/ratthachat/writing-prompts), [SST-2](https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english), [WIKITEXT-103](https://blog.salesforceairesearch.com/the-wikitext-long-term-dependency-language-modeling-dataset/)
 * [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862)
-  * Dataset: [TriviaQA](http://nlp.cs.washington.edu/triviaqa/), [HellaSwag](https://rowanzellers.com/hellaswag/), [ARC](https://allenai.org/data/arc), [OpenBookQA](https://allenai.org/data/open-book-qa), [LAMBADA](https://zenodo.org/record/2630551#.Y_KLJ-yZNhF), [HumanEval](https://github.com/openai/human-eval) ⭐ 3,377 | 🐛 45 | 🌐 Python | 📅 2025-01-17, [MMLU](https://github.com/hendrycks/test) ⭐ 1,616 | 🐛 17 | 🌐 Python | 📅 2023-05-28, [TruthfulQA](https://github.com/sylinrl/TruthfulQA) ⭐ 945 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2025-01-16
+  * Dataset: [TriviaQA](http://nlp.cs.washington.edu/triviaqa/), [HellaSwag](https://rowanzellers.com/hellaswag/), [ARC](https://allenai.org/data/arc), [OpenBookQA](https://allenai.org/data/open-book-qa), [LAMBADA](https://zenodo.org/record/2630551#.Y_KLJ-yZNhF), [HumanEval](https://github.com/openai/human-eval) ⭐ 3,381 | 🐛 45 | 🌐 Python | 📅 2025-01-17, [MMLU](https://github.com/hendrycks/test) ⭐ 1,616 | 🐛 17 | 🌐 Python | 📅 2023-05-28, [TruthfulQA](https://github.com/sylinrl/TruthfulQA) ⭐ 945 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2025-01-16
   * Code: [official](https://github.com/anthropics/hh-rlhf) ⚠️ Archived
   * Yuntao Bai, Andy Jones, Kamal Ndousse, et al.
   * Keyword: Harmless assistants, Online mode, Robustness of RLHF training, OOD detection.
@@ -1132,15 +1132,15 @@ format:
   - experiment environments, datasets or tasks
 ```
 
-* [veRL: Volcano Engine Reinforcement Learning for LLM](https://github.com/volcengine/verl) ⭐ 23,415 | 🐛 1,223 | 🌐 Python | 📅 2026-09-14
+* [veRL: Volcano Engine Reinforcement Learning for LLM](https://github.com/volcengine/verl) ⭐ 23,433 | 🐛 1,223 | 🌐 Python | 📅 2026-09-15
   * ByteDance Seed MLSys Team & HKU: Guangming Sheng, Chi Zhang, Zilingfeng Ye, Xibin Wu, Wang Zhang, Ru Zhang, Yanghua Peng, Haibin Lin, Chuan Wu
   * Keyword: Flexible, Efficient, RLHF framework
   * Tasks: RLHF, Reasoning tasks including math and code.
-* [Transformer Reinforcement Learning (TRL)](https://github.com/lvwerra/trl) ⭐ 19,304 | 🐛 307 | 🌐 Python | 📅 2026-09-14
+* [Transformer Reinforcement Learning (TRL)](https://github.com/lvwerra/trl) ⭐ 19,315 | 🐛 289 | 🌐 Python | 📅 2026-09-15
   * Leandro von Werra, Younes Belkada, Lewis Tunstall, et al.
   * Keyword: Train LLM with RL, PPO, Transformer
   * Task: [IMDB sentiment](https://www.imdb.com/interfaces/)
-* [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) ⭐ 10,003 | 🐛 372 | 🌐 Python | 📅 2026-09-14
+* [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) ⭐ 10,005 | 🐛 380 | 🌐 Python | 📅 2026-09-14
   * OpenRLHF
   * Keyword: 70B, RLHF, DeepSpeed, Ray, vLLM
   * Task: An Easy-to-use, Scalable and High-performance RLHF Framework (Support 70B+ full tuning & LoRA & Mixtral & KTO).
@@ -1180,7 +1180,7 @@ format:
   * Phil Wang
   * Keyword: LaMDA, Attention-mechanism
   * Task: Open-source pre-training implementation of Google's LaMDA research paper in PyTorch
-* [Potato](https://github.com/davidjurgens/potato) ⭐ 421 | 🐛 4 | 🌐 Python | 📅 2026-09-14
+* [Potato](https://github.com/davidjurgens/potato) ⭐ 422 | 🐛 4 | 🌐 Python | 📅 2026-09-15
   * David Jurgens et al.
   * Keyword: Annotation, Human Evaluation, Quality Control, AI-Assisted Labeling
   * Task: Portable annotation platform for human evaluation and feedback collection with 20+ annotation types and agent trace evaluation
@@ -1217,7 +1217,7 @@ format:
   - experiment environments or tasks
 ```
 
-* [PromptSource](https://github.com/bigscience-workshop/promptsource) ⭐ 3,034 | 🐛 44 | 🌐 Python | 📅 2023-10-23
+* [PromptSource](https://github.com/bigscience-workshop/promptsource) ⭐ 3,035 | 🐛 44 | 🌐 Python | 📅 2023-10-23
   * Stephen H. Bach, Victor Sanh, Zheng-Xin Yong et al.
   * Keyword: Prompted English datasets,  Mapping a data example into natural language
   * Task:  Toolkit for creating, Sharing and using natural language prompts
@@ -1298,4 +1298,4 @@ Awesome RLHF is released under the Apache 2.0 license.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
