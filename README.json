@@ -55,10 +55,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-17T05:49:37Z",
-                    "open_issues": 381,
+                    "open_issues": 384,
                     "owner": "OpenRLHF",
                     "repo": "OpenRLHF",
-                    "stars": 10017,
+                    "stars": 10020,
                     "topics": [
                       "large-language-models",
                       "proximal-policy-optimization",
@@ -176,10 +176,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-17T05:49:37Z",
-                    "open_issues": 381,
+                    "open_issues": 384,
                     "owner": "OpenRLHF",
                     "repo": "OpenRLHF",
-                    "stars": 10017,
+                    "stars": 10020,
                     "topics": [
                       "large-language-models",
                       "proximal-policy-optimization",
@@ -463,11 +463,11 @@
                     "id": 881221486,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-18T13:17:05Z",
-                    "open_issues": 1244,
+                    "last_commit": "2026-09-20T09:42:38Z",
+                    "open_issues": 1245,
                     "owner": "verl-project",
                     "repo": "verl",
-                    "stars": 23492,
+                    "stars": 23503,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:25:09.696Z"
@@ -1315,7 +1315,7 @@
                     "open_issues": 340,
                     "owner": "openai",
                     "repo": "evals",
-                    "stars": 19477,
+                    "stars": 19485,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:25:09.696Z"
@@ -1519,7 +1519,7 @@
                     "open_issues": 261,
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 33978,
+                    "stars": 33977,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:25:09.696Z"
@@ -1734,7 +1734,7 @@
                     "open_issues": 880,
                     "owner": "google-research",
                     "repo": "bert",
-                    "stars": 40042,
+                    "stars": 40041,
                     "topics": [
                       "google",
                       "natural-language-processing",
@@ -1950,7 +1950,7 @@
                     "open_issues": 2,
                     "owner": "anthropics",
                     "repo": "evals",
-                    "stars": 429,
+                    "stars": 430,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:25:09.696Z"
@@ -2424,11 +2424,11 @@
             "id": 881221486,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T13:17:05Z",
-            "open_issues": 1244,
+            "last_commit": "2026-09-20T09:42:38Z",
+            "open_issues": 1245,
             "owner": "verl-project",
             "repo": "verl",
-            "stars": 23492,
+            "stars": 23503,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:09.696Z"
@@ -2446,10 +2446,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-19T09:38:34Z",
-            "open_issues": 287,
+            "open_issues": 290,
             "owner": "huggingface",
             "repo": "trl",
-            "stars": 19342,
+            "stars": 19346,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:09.696Z"
@@ -2467,10 +2467,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-17T05:49:37Z",
-            "open_issues": 381,
+            "open_issues": 384,
             "owner": "OpenRLHF",
             "repo": "OpenRLHF",
-            "stars": 10017,
+            "stars": 10020,
             "topics": [
               "large-language-models",
               "proximal-policy-optimization",
@@ -2528,7 +2528,7 @@
             "open_issues": 328,
             "owner": "deepspeedai",
             "repo": "DeepSpeedExamples",
-            "stars": 6849,
+            "stars": 6848,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:09.696Z"
@@ -2897,7 +2897,7 @@
                 "open_issues": 18,
                 "owner": "PKU-Alignment",
                 "repo": "safe-rlhf",
-                "stars": 1617,
+                "stars": 1618,
                 "topics": [
                   "ai-safety",
                   "alpaca",
@@ -3024,7 +3024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T12:42:09.330Z",
+    "last_updated": "2026-09-20T13:13:27.967Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of reinforcement learning with human feedback resources (continually updated)",
@@ -3036,7 +3036,7 @@
       "open_issues": 7,
       "owner": "opendilab",
       "repo": "awesome-RLHF",
-      "stars": 4427,
+      "stars": 4426,
       "topics": [
         "deep-learning",
         "deep-reinforcement-learning",
