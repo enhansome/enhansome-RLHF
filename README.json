@@ -55,10 +55,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-17T05:49:37Z",
-                    "open_issues": 384,
+                    "open_issues": 385,
                     "owner": "OpenRLHF",
                     "repo": "OpenRLHF",
-                    "stars": 10034,
+                    "stars": 10037,
                     "topics": [
                       "large-language-models",
                       "proximal-policy-optimization",
@@ -176,10 +176,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-17T05:49:37Z",
-                    "open_issues": 384,
+                    "open_issues": 385,
                     "owner": "OpenRLHF",
                     "repo": "OpenRLHF",
-                    "stars": 10034,
+                    "stars": 10037,
                     "topics": [
                       "large-language-models",
                       "proximal-policy-optimization",
@@ -463,11 +463,11 @@
                     "id": 881221486,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-22T13:27:08Z",
-                    "open_issues": 1260,
+                    "last_commit": "2026-09-23T09:09:38Z",
+                    "open_issues": 1259,
                     "owner": "verl-project",
                     "repo": "verl",
-                    "stars": 23558,
+                    "stars": 23581,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:25:09.696Z"
@@ -1282,7 +1282,7 @@
                     "open_issues": 82,
                     "owner": "AlibabaResearch",
                     "repo": "DAMO-ConvAI",
-                    "stars": 1600,
+                    "stars": 1601,
                     "topics": [
                       "conversational-ai",
                       "deep-learning",
@@ -1312,10 +1312,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-04-14T15:29:57Z",
-                    "open_issues": 340,
+                    "open_issues": 341,
                     "owner": "openai",
                     "repo": "evals",
-                    "stars": 19489,
+                    "stars": 19494,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:25:09.696Z"
@@ -1336,7 +1336,7 @@
                     "open_issues": 45,
                     "owner": "openai",
                     "repo": "human-eval",
-                    "stars": 3385,
+                    "stars": 3386,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:25:09.696Z"
@@ -1519,7 +1519,7 @@
                     "open_issues": 262,
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 33975,
+                    "stars": 33974,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:25:09.696Z"
@@ -1650,7 +1650,7 @@
                     "open_issues": 23,
                     "owner": "abisee",
                     "repo": "cnn-dailymail",
-                    "stars": 662,
+                    "stars": 663,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:25:09.696Z"
@@ -1796,7 +1796,7 @@
                     "open_issues": 45,
                     "owner": "openai",
                     "repo": "human-eval",
-                    "stars": 3385,
+                    "stars": 3386,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:25:09.696Z"
@@ -1873,7 +1873,7 @@
                     "open_issues": 3,
                     "owner": "openai",
                     "repo": "following-instructions-human-feedback",
-                    "stars": 1257,
+                    "stars": 1256,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:25:09.696Z"
@@ -2233,7 +2233,7 @@
                     "open_issues": 23,
                     "owner": "abisee",
                     "repo": "cnn-dailymail",
-                    "stars": 662,
+                    "stars": 663,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:25:09.696Z"
@@ -2282,7 +2282,7 @@
                     "open_issues": 23,
                     "owner": "abisee",
                     "repo": "cnn-dailymail",
-                    "stars": 662,
+                    "stars": 663,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:25:09.696Z"
@@ -2424,11 +2424,11 @@
             "id": 881221486,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T13:27:08Z",
-            "open_issues": 1260,
+            "last_commit": "2026-09-23T09:09:38Z",
+            "open_issues": 1259,
             "owner": "verl-project",
             "repo": "verl",
-            "stars": 23558,
+            "stars": 23581,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:09.696Z"
@@ -2445,11 +2445,11 @@
             "id": 250510075,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T12:53:50Z",
-            "open_issues": 287,
+            "last_commit": "2026-09-23T13:35:51Z",
+            "open_issues": 273,
             "owner": "huggingface",
             "repo": "trl",
-            "stars": 19360,
+            "stars": 19367,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:09.696Z"
@@ -2467,10 +2467,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-17T05:49:37Z",
-            "open_issues": 384,
+            "open_issues": 385,
             "owner": "OpenRLHF",
             "repo": "OpenRLHF",
-            "stars": 10034,
+            "stars": 10037,
             "topics": [
               "large-language-models",
               "proximal-policy-optimization",
@@ -2528,7 +2528,7 @@
             "open_issues": 330,
             "owner": "deepspeedai",
             "repo": "DeepSpeedExamples",
-            "stars": 6847,
+            "stars": 6848,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:09.696Z"
@@ -2579,7 +2579,7 @@
                 "open_issues": 23,
                 "owner": "abisee",
                 "repo": "cnn-dailymail",
-                "stars": 662,
+                "stars": 663,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:09.696Z"
@@ -2632,7 +2632,7 @@
                 "open_issues": 23,
                 "owner": "abisee",
                 "repo": "cnn-dailymail",
-                "stars": 662,
+                "stars": 663,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:09.696Z"
@@ -2692,7 +2692,7 @@
             "open_issues": 3,
             "owner": "openai",
             "repo": "following-instructions-human-feedback",
-            "stars": 1257,
+            "stars": 1256,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:09.696Z"
@@ -2734,7 +2734,7 @@
             "open_issues": 4,
             "owner": "voidful",
             "repo": "TextRL",
-            "stars": 565,
+            "stars": 564,
             "topics": [
               "chatgpt",
               "controlled-nlg",
@@ -2791,8 +2791,8 @@
             "id": 258270256,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-19T02:14:31Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-23T13:21:40Z",
+            "open_issues": 1,
             "owner": "davidjurgens",
             "repo": "potato",
             "stars": 424,
@@ -2947,7 +2947,7 @@
             "open_issues": 43,
             "owner": "bigscience-workshop",
             "repo": "promptsource",
-            "stars": 3032,
+            "stars": 3033,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -3024,7 +3024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T13:40:34.615Z",
+    "last_updated": "2026-09-23T13:51:52.485Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of reinforcement learning with human feedback resources (continually updated)",
@@ -3036,7 +3036,7 @@
       "open_issues": 7,
       "owner": "opendilab",
       "repo": "awesome-RLHF",
-      "stars": 4426,
+      "stars": 4427,
       "topics": [
         "deep-learning",
         "deep-reinforcement-learning",
