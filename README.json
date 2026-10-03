@@ -13,7 +13,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: Official",
-                  "description": null,
+                  "description": "rmovva/wimhf",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -45,7 +45,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: Official",
-                  "description": null,
+                  "description": "OpenRLHF/OpenRLHF",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -55,10 +55,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-17T05:49:37Z",
-                    "open_issues": 391,
+                    "open_issues": 392,
                     "owner": "OpenRLHF",
                     "repo": "OpenRLHF",
-                    "stars": 10065,
+                    "stars": 10064,
                     "topics": [
                       "large-language-models",
                       "proximal-policy-optimization",
@@ -82,7 +82,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: Official",
-                  "description": null,
+                  "description": "Kwai-YuanQi/MM-RLHF",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -110,7 +110,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: Official",
-                  "description": null,
+                  "description": "Simplified-Reasoning/TPO",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -138,7 +138,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: Official",
-                  "description": null,
+                  "description": "yinyueqin/DenseRewardRLHF-PPO",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -166,7 +166,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: Official",
-                  "description": null,
+                  "description": "OpenRLHF/OpenRLHF",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -176,10 +176,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-17T05:49:37Z",
-                    "open_issues": 391,
+                    "open_issues": 392,
                     "owner": "OpenRLHF",
                     "repo": "OpenRLHF",
-                    "stars": 10065,
+                    "stars": 10064,
                     "topics": [
                       "large-language-models",
                       "proximal-policy-optimization",
@@ -210,7 +210,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: Official",
-                  "description": null,
+                  "description": "zkshan2002/RTO",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -238,7 +238,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: Official",
-                  "description": null,
+                  "description": "shenao-zhang/reward-augmented-preference",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -266,7 +266,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: Official",
-                  "description": null,
+                  "description": "EIT-NLP/AccuracyParadox-RLHF",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -294,7 +294,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: Official",
-                  "description": null,
+                  "description": "PKU-Alignment/align-anything",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -307,7 +307,7 @@
                     "open_issues": 32,
                     "owner": "PKU-Alignment",
                     "repo": "align-anything",
-                    "stars": 4669,
+                    "stars": 4667,
                     "topics": [
                       "chameleon",
                       "dpo",
@@ -329,7 +329,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: Official",
-                  "description": null,
+                  "description": "RishiHazra/Revolve",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -357,7 +357,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: Official",
-                  "description": null,
+                  "description": "ernie-research/MA-RLHF",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -391,7 +391,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: Official",
-                  "description": null,
+                  "description": "LoveCatc/OrdinalRewardModeling",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -419,7 +419,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: Official",
-                  "description": null,
+                  "description": "ZiyiZhang27/sdpo",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -454,7 +454,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: Official",
-                  "description": null,
+                  "description": "verl-project/verl",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -464,10 +464,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-02T07:19:20Z",
-                    "open_issues": 1302,
+                    "open_issues": 1308,
                     "owner": "verl-project",
                     "repo": "verl",
-                    "stars": 23728,
+                    "stars": 23733,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:25:09.696Z"
@@ -482,7 +482,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: Official",
-                  "description": null,
+                  "description": "halfrot/ALaRM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -514,7 +514,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: Official",
-                  "description": null,
+                  "description": "llava-rlhf/LLaVA-RLHF",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -542,7 +542,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: Official",
-                  "description": null,
+                  "description": "exlaw/DLMA",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -570,7 +570,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: Official",
-                  "description": null,
+                  "description": "RLHFlow/Directional-Preference-Alignment",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -602,7 +602,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: Official",
-                  "description": null,
+                  "description": "RUCAIBox/RLMEC",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -630,7 +630,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "XanderJC/attention-based-credit",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -658,7 +658,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "RLHF-V/RLHF-V",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -694,7 +694,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "RLHFlow/Online-RLHF",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -726,7 +726,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "Cornell-RL/drpo",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -754,7 +754,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "Shentao-YANG/Dense_Reward_T2I",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -786,7 +786,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "uclaml/SPIN",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -819,7 +819,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "ZiyiZhang27/tdpo",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -855,7 +855,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "dunzeng/MORE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -883,7 +883,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "ZHZisZZ/modpo",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -911,7 +911,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "ZHZisZZ/emulated-disalignment",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -939,7 +939,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "XanderJC/attention-based-credit",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -967,7 +967,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "CJReinforce/RIME_ICML2024",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1004,7 +1004,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "pickxiguapi/Uni-RLHF-Platform",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1039,7 +1039,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "shadowkiller33/Contrast-Instruction",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1067,7 +1067,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "allenai/FineGrainedRLHF",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1095,7 +1095,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "Shentao-YANG/Preference_Grounded_Guidance",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1123,7 +1123,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "Shentao-YANG/Fantastic_Reward_ICLR2023",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1151,7 +1151,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "jhejna/inverse-preference-learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1179,7 +1179,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "tatsu-lab/alpaca_farm",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1213,7 +1213,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "Linear95/APO",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1241,7 +1241,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "tianjunz/HIR",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1269,7 +1269,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "AlibabaResearch/DAMO-ConvAI",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1302,7 +1302,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "openai/evals",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1315,7 +1315,7 @@
                     "open_issues": 343,
                     "owner": "openai",
                     "repo": "evals",
-                    "stars": 19543,
+                    "stars": 19546,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:25:09.696Z"
@@ -1351,7 +1351,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "OptimalScale/LMFlow",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1387,7 +1387,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "GanjinZero/RRHF",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1415,7 +1415,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "jhejna/few-shot-preference-rl",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1443,7 +1443,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "tgxs002/align_sd",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1473,7 +1473,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "zai-org/ImageReward",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1506,7 +1506,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "chenfei-wu/TaskMatrix",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1519,7 +1519,7 @@
                     "open_issues": 262,
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 33976,
+                    "stars": 33974,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:25:09.696Z"
@@ -1534,7 +1534,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "tomekkorbak/pretraining-with-human-feedback",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1571,7 +1571,7 @@
                 {
                   "node_type": "item",
                   "title": "Dataset; BBQ",
-                  "description": null,
+                  "description": "nyu-mll/BBQ",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1606,7 +1606,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "allenai/RL4LMs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1693,7 +1693,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "anthropics/hh-rlhf",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1721,7 +1721,7 @@
                 {
                   "node_type": "item",
                   "title": "Keyword: Real-time, Open-ended dialogue system, Pairs the succinct embedding of the conversation state by language models, CAQL, CQL, BERT",
-                  "description": null,
+                  "description": "google-research/bert",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1755,7 +1755,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "GXimingLu/Quark",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1804,7 +1804,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "anthropics/hh-rlhf",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1860,7 +1860,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "openai/following-instructions-human-feedback",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1894,7 +1894,7 @@
                     "open_issues": 22,
                     "owner": "sylinrl",
                     "repo": "TruthfulQA",
-                    "stars": 948,
+                    "stars": 949,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:25:09.696Z"
@@ -1909,7 +1909,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "anthropics/ConstitutionalHarmlessnessPaper",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1937,7 +1937,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "anthropics/evals",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1986,7 +1986,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "JAEarly/MIL-for-Non-Markovian-Reward-Modelling",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2014,7 +2014,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "rll-research/rune",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2062,7 +2062,7 @@
                     "open_issues": 22,
                     "owner": "sylinrl",
                     "repo": "TruthfulQA",
-                    "stars": 948,
+                    "stars": 949,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:25:09.696Z"
@@ -2105,7 +2105,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "samuki/reinforce-joey",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2136,7 +2136,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "rll-research/BPref",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2164,7 +2164,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "rll-research/BPref",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2199,7 +2199,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "openai/summarize-from-feedback",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -2248,7 +2248,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "openai/lm-human-preferences",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -2297,7 +2297,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "rddy/ReQueST",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2325,7 +2325,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "rddy/ReQueST",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2353,7 +2353,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: third party",
-                  "description": null,
+                  "description": "bharadwaj1098/Tamer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2381,7 +2381,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "mrahtz/learning-from-human-preferences",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2415,7 +2415,7 @@
         {
           "node_type": "item",
           "title": "veRL: Volcano Engine Reinforcement Learning for LLM",
-          "description": null,
+          "description": "verl-project/verl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2425,10 +2425,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T07:19:20Z",
-            "open_issues": 1302,
+            "open_issues": 1308,
             "owner": "verl-project",
             "repo": "verl",
-            "stars": 23728,
+            "stars": 23733,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:09.696Z"
@@ -2436,7 +2436,7 @@
         {
           "node_type": "item",
           "title": "Transformer Reinforcement Learning (TRL)",
-          "description": null,
+          "description": "huggingface/trl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2445,11 +2445,11 @@
             "id": 250510075,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T15:01:20Z",
-            "open_issues": 283,
+            "last_commit": "2026-10-03T04:04:44Z",
+            "open_issues": 280,
             "owner": "huggingface",
             "repo": "trl",
-            "stars": 19437,
+            "stars": 19439,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:09.696Z"
@@ -2457,7 +2457,7 @@
         {
           "node_type": "item",
           "title": "OpenRLHF",
-          "description": null,
+          "description": "OpenRLHF/OpenRLHF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2467,10 +2467,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-17T05:49:37Z",
-            "open_issues": 391,
+            "open_issues": 392,
             "owner": "OpenRLHF",
             "repo": "OpenRLHF",
-            "stars": 10065,
+            "stars": 10064,
             "topics": [
               "large-language-models",
               "proximal-policy-optimization",
@@ -2487,7 +2487,7 @@
         {
           "node_type": "item",
           "title": "PaLM + RLHF - Pytorch",
-          "description": null,
+          "description": "lucidrains/PaLM-rlhf-pytorch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2500,7 +2500,7 @@
             "open_issues": 20,
             "owner": "lucidrains",
             "repo": "PaLM-rlhf-pytorch",
-            "stars": 7860,
+            "stars": 7858,
             "topics": [
               "artificial-intelligence",
               "attention-mechanisms",
@@ -2515,7 +2515,7 @@
         {
           "node_type": "item",
           "title": "DeepSpeed-Chat",
-          "description": null,
+          "description": "deepspeedai/DeepSpeedExamples",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2528,7 +2528,7 @@
             "open_issues": 327,
             "owner": "deepspeedai",
             "repo": "DeepSpeedExamples",
-            "stars": 6848,
+            "stars": 6849,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:09.696Z"
@@ -2536,7 +2536,7 @@
         {
           "node_type": "item",
           "title": "Transformer Reinforcement Learning X (TRLX)",
-          "description": null,
+          "description": "CarperAI/trlx",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2561,7 +2561,7 @@
         {
           "node_type": "item",
           "title": "RL4LMs (A modular RL library to fine-tune language models to human preferences)",
-          "description": null,
+          "description": "allenai/RL4LMs",
           "children": [
             {
               "node_type": "item",
@@ -2614,7 +2614,7 @@
         {
           "node_type": "item",
           "title": "lm-human-preferences",
-          "description": null,
+          "description": "openai/lm-human-preferences",
           "children": [
             {
               "node_type": "item",
@@ -2657,7 +2657,7 @@
         {
           "node_type": "item",
           "title": "following-instructions-human-feedback",
-          "description": null,
+          "description": "openai/following-instructions-human-feedback",
           "children": [
             {
               "node_type": "item",
@@ -2675,7 +2675,7 @@
                 "open_issues": 22,
                 "owner": "sylinrl",
                 "repo": "TruthfulQA",
-                "stars": 948,
+                "stars": 949,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:09.696Z"
@@ -2700,7 +2700,7 @@
         {
           "node_type": "item",
           "title": "Dromedary",
-          "description": null,
+          "description": "IBM/Dromedary",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2721,7 +2721,7 @@
         {
           "node_type": "item",
           "title": "TextRL",
-          "description": null,
+          "description": "voidful/TextRL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2753,7 +2753,7 @@
         {
           "node_type": "item",
           "title": "LaMDA-rlhf-pytorch",
-          "description": null,
+          "description": "conceptofmind/LaMDA-rlhf-pytorch",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2782,7 +2782,7 @@
         {
           "node_type": "item",
           "title": "Potato",
-          "description": null,
+          "description": "davidjurgens/potato",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2791,8 +2791,8 @@
             "id": 258270256,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-29T20:20:22Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-02T18:21:09Z",
+            "open_issues": 0,
             "owner": "davidjurgens",
             "repo": "potato",
             "stars": 427,
@@ -2816,7 +2816,7 @@
         {
           "node_type": "item",
           "title": "Reinforcement Learning from Human Feedback (RLHF) in Notebooks",
-          "description": null,
+          "description": "ash80/RLHF_in_notebooks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2837,7 +2837,7 @@
         {
           "node_type": "item",
           "title": "VinePPO",
-          "description": null,
+          "description": "McGill-NLP/VinePPO",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2858,7 +2858,7 @@
         {
           "node_type": "item",
           "title": "minRLHF",
-          "description": null,
+          "description": "thomfoster/minRLHF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2884,7 +2884,7 @@
             {
               "node_type": "item",
               "title": "Task: A framework that enables training and learning from reward functions that are fine-grained in density and multiple RMs -Safe-RLHF",
-              "description": null,
+              "description": "PKU-Alignment/safe-rlhf",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2934,7 +2934,7 @@
         {
           "node_type": "item",
           "title": "PromptSource",
-          "description": null,
+          "description": "bigscience-workshop/promptsource",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2959,7 +2959,7 @@
         {
           "node_type": "item",
           "title": "HH-RLHF",
-          "description": null,
+          "description": "anthropics/hh-rlhf",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2980,7 +2980,7 @@
         {
           "node_type": "item",
           "title": "The Flan Collection",
-          "description": null,
+          "description": "google-research/FLAN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3001,7 +3001,7 @@
         {
           "node_type": "item",
           "title": "Stable Alignment - Alignment Learning in Social Games",
-          "description": null,
+          "description": "agi-templar/Stable-Alignment",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3024,7 +3024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:01:23.863Z",
+    "last_updated": "2026-10-03T04:29:34.714Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of reinforcement learning with human feedback resources (continually updated)",
@@ -3033,7 +3033,7 @@
       "language": null,
       "license": "Apache-2.0",
       "last_commit": "2026-05-20T12:56:15Z",
-      "open_issues": 7,
+      "open_issues": 8,
       "owner": "opendilab",
       "repo": "awesome-RLHF",
       "stars": 4431,
