@@ -463,11 +463,11 @@
                     "id": 881221486,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-09T12:57:14Z",
-                    "open_issues": 1333,
+                    "last_commit": "2026-10-10T09:29:03Z",
+                    "open_issues": 1334,
                     "owner": "verl-project",
                     "repo": "verl",
-                    "stars": 23803,
+                    "stars": 23822,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:25:09.696Z"
@@ -1312,10 +1312,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-04-14T15:29:57Z",
-                    "open_issues": 346,
+                    "open_issues": 347,
                     "owner": "openai",
                     "repo": "evals",
-                    "stars": 19580,
+                    "stars": 19582,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:25:09.696Z"
@@ -1519,7 +1519,7 @@
                     "open_issues": 262,
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 33962,
+                    "stars": 33957,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:25:09.696Z"
@@ -1678,7 +1678,7 @@
                     "open_issues": 5,
                     "owner": "nyu-mll",
                     "repo": "quality",
-                    "stars": 154,
+                    "stars": 155,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:25:09.696Z"
@@ -1734,7 +1734,7 @@
                     "open_issues": 880,
                     "owner": "google-research",
                     "repo": "bert",
-                    "stars": 40044,
+                    "stars": 40038,
                     "topics": [
                       "google",
                       "natural-language-processing",
@@ -1845,7 +1845,7 @@
                     "open_issues": 5,
                     "owner": "nyu-mll",
                     "repo": "quality",
-                    "stars": 154,
+                    "stars": 155,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:25:09.696Z"
@@ -2424,11 +2424,11 @@
             "id": 881221486,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T12:57:14Z",
-            "open_issues": 1333,
+            "last_commit": "2026-10-10T09:29:03Z",
+            "open_issues": 1334,
             "owner": "verl-project",
             "repo": "verl",
-            "stars": 23803,
+            "stars": 23822,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:09.696Z"
@@ -2445,11 +2445,11 @@
             "id": 250510075,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T15:17:03Z",
-            "open_issues": 246,
+            "last_commit": "2026-10-09T19:42:57Z",
+            "open_issues": 237,
             "owner": "huggingface",
             "repo": "trl",
-            "stars": 19476,
+            "stars": 19483,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:09.696Z"
@@ -2500,7 +2500,7 @@
             "open_issues": 20,
             "owner": "lucidrains",
             "repo": "PaLM-rlhf-pytorch",
-            "stars": 7859,
+            "stars": 7860,
             "topics": [
               "artificial-intelligence",
               "attention-mechanisms",
@@ -2528,7 +2528,7 @@
             "open_issues": 327,
             "owner": "deepspeedai",
             "repo": "DeepSpeedExamples",
-            "stars": 6851,
+            "stars": 6850,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:09.696Z"
@@ -2549,7 +2549,7 @@
             "open_issues": 102,
             "owner": "CarperAI",
             "repo": "trlx",
-            "stars": 4756,
+            "stars": 4757,
             "topics": [
               "machine-learning",
               "pytorch",
@@ -2947,7 +2947,7 @@
             "open_issues": 43,
             "owner": "bigscience-workshop",
             "repo": "promptsource",
-            "stars": 3037,
+            "stars": 3039,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -3024,7 +3024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T15:34:16.714Z",
+    "last_updated": "2026-10-10T14:45:20.822Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of reinforcement learning with human feedback resources (continually updated)",
