@@ -463,11 +463,11 @@
                     "id": 881221486,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-05T14:16:24Z",
-                    "open_issues": 1451,
+                    "last_commit": "2026-11-06T10:51:47Z",
+                    "open_issues": 1464,
                     "owner": "verl-project",
                     "repo": "verl",
-                    "stars": 24143,
+                    "stars": 24154,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:25:09.696Z"
@@ -1315,7 +1315,7 @@
                     "open_issues": 350,
                     "owner": "openai",
                     "repo": "evals",
-                    "stars": 19709,
+                    "stars": 19710,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:25:09.696Z"
@@ -1519,7 +1519,7 @@
                     "open_issues": 262,
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 33916,
+                    "stars": 33910,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:25:09.696Z"
@@ -1734,7 +1734,7 @@
                     "open_issues": 879,
                     "owner": "google-research",
                     "repo": "bert",
-                    "stars": 40036,
+                    "stars": 40033,
                     "topics": [
                       "google",
                       "natural-language-processing",
@@ -1950,7 +1950,7 @@
                     "open_issues": 2,
                     "owner": "anthropics",
                     "repo": "evals",
-                    "stars": 446,
+                    "stars": 447,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:25:09.696Z"
@@ -2424,11 +2424,11 @@
             "id": 881221486,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-05T14:16:24Z",
-            "open_issues": 1451,
+            "last_commit": "2026-11-06T10:51:47Z",
+            "open_issues": 1464,
             "owner": "verl-project",
             "repo": "verl",
-            "stars": 24143,
+            "stars": 24154,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:09.696Z"
@@ -2445,11 +2445,11 @@
             "id": 250510075,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-05T16:42:00Z",
-            "open_issues": 306,
+            "last_commit": "2026-11-06T16:08:58Z",
+            "open_issues": 309,
             "owner": "huggingface",
             "repo": "trl",
-            "stars": 19675,
+            "stars": 19680,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:09.696Z"
@@ -2524,7 +2524,7 @@
             "id": 237085793,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T02:00:10Z",
+            "last_commit": "2026-11-05T22:07:32Z",
             "open_issues": 331,
             "owner": "deepspeedai",
             "repo": "DeepSpeedExamples",
@@ -2795,7 +2795,7 @@
             "open_issues": 0,
             "owner": "davidjurgens",
             "repo": "potato",
-            "stars": 442,
+            "stars": 443,
             "topics": [
               "agentic-ai",
               "agentic-workflow",
@@ -3024,7 +3024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T16:51:30.227Z",
+    "last_updated": "2026-11-06T16:18:17.495Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of reinforcement learning with human feedback resources (continually updated)",
